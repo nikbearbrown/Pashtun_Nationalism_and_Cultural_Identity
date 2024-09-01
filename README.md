@@ -1130,4 +1130,406 @@ By addressing these areas, future research can continue to unravel the complexit
 - R. Khan (2021). Between Independence and Autonomy: The Changing Landscape of Ethnonationalist Movements in Pakistan. *Nationalities Papers*.
 
 
+## The Role of History in Pashtun Nationalist Movement. 
+
+### 1. **Introduction to Pashtun Nationalism and Religion**
+
+Pashtun nationalism is deeply intertwined with both historical and contemporary socio-political developments in the regions of Afghanistan and Pakistan. The interplay between nationalism and religion has shaped the Pashtun identity and their political movements. A comprehensive understanding requires examining the historical context, cultural influences, and the impact of external interventions.
+
+### 2. **Historical Context and Emergence of Pashtun Nationalism**
+
+The emergence of Pashtun nationalism can be traced back to the colonial era and the subsequent geopolitical conflicts that have shaped South Asia's political landscape. The Muslim Pashtun movement of the North-West Frontier of India (1930–1934) provides an early example of a nonviolent nationalist struggle against British colonial rule (Raqib, 2009)【DOI: 10.1057/9780230101753_9】. This period was marked by a shift from violent resistance to nonviolent strategies to achieve political goals.
+
+### 3. **Interplay of Nationalism and Religion in Pashtun Society**
+
+Surat Khan (2019) explores the dual influence of nationalism and religion in shaping Pashtun society. The study highlights that while both forces have been pivotal, the policies of Pakistan, particularly during the Afghan Jihad, have led to increased religious extremism and radicalization in Pashtun areas, weakening traditional nationalist sentiments (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】. The weakening of Pashtun cultural symbols and traditions due to rising extremism underscores a shift in the socio-political landscape.
+
+### 4. **Pashtun Nationalism and the Taliban**
+
+The paper by A. Saikal (2010) discusses the complex relationship between Pashtun nationalism and the Taliban movement. It argues that the Taliban could potentially be seen as a nationalist force in the absence of peace and stability, reflecting a convergence of religious and nationalist sentiments among the Pashtun people in Afghanistan and Pakistan (Saikal, 2010)【DOI: 10.1080/13602001003650572】. This suggests a fluid interplay between identity politics and militant religious movements.
+
+### 5. **Rise of Peripheral Nationalist Movements: Pashtun Tahafuz Movement**
+
+The rise of the Pashtun Tahafuz (protection) movement represents a new wave of peripheral nationalism in Pakistan, emerging in response to state policies post-9/11 and the war on terrorism. Ahmed and Khan (2020) provide an analysis of how this movement has become a significant challenge for the Pakistani state, highlighting the socio-political dynamics of peripheral nationalism in the country (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+### 6. **Cultural Dimensions: Pashtunwali and National Identity**
+
+Pashtunwali, the centuries-old customary code of conduct, plays a crucial role in strengthening Pashtun nationalism. Khan et al. (2019) argue that Pashtunwali fosters a sense of unity and identity among the Pashtuns, which has shifted from advocating for a separate state to demanding rights within the framework of the Pakistani constitution (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】. This shift indicates a transformation in the nationalist discourse from an external to an internal struggle.
+
+### 7. **Nonviolent Resistance and Pashtun Stereotypes**
+
+The Khudai Khidmatgar movement, as analyzed by Bala (2013), provides a unique example of radical nonviolent action rooted in Islamic principles. This movement challenges the stereotypical view of Pashtuns as inherently violent, highlighting the diversity of political strategies within Pashtun society (Bala, 2013)【DOI: 10.1111/PECH.12009】. It also calls for a critical reassessment of the historical narratives surrounding nonviolent resistance movements.
+
+### 8. **Myth or Reality: The Construct of Pashtun Nationalism**
+
+R. Saigol (2012) delves into the debates around the existence of Pashtun nationalism, questioning whether it is a coherent or mythical construct. The paper challenges the tendency to equate Pashtun nationalism with Talibanization, suggesting that the notion of Pashtun nationalism may be more imagined than real (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+### 9. **Conclusion**
+
+The survey highlights the complex and evolving nature of Pashtun nationalism, influenced by historical contexts, cultural codes, and contemporary geopolitical conflicts. The intersection of nationalism and religion continues to shape the socio-political landscape in Afghanistan and Pakistan, with significant implications for regional stability and identity politics.
+
+### References
+
+- Khan, S. (2019). The Interplay of Nationalism and Religion in Pashtun Society: An Analysis. *Global Social Sciences Review*. DOI: [10.31703/gssr.2019(iv-iii).30](https://doi.org/10.31703/gssr.2019(iv-iii).30)
+- Saikal, A. (2010). Afghanistan and Pakistan: The Question of Pashtun Nationalism?. DOI: [10.1080/13602001003650572](https://doi.org/10.1080/13602001003650572)
+- Ahmed, R. Q., & Khan, R. (2020). The rise of peripheral nationalism in Pakistan and the Pashtun Tahafuz movement. *Asian Ethnicity*. DOI: [10.1080/14631369.2020.1785840](https://doi.org/10.1080/14631369.2020.1785840)
+- Khan, S., Faheem, M., & Gul, S. (2019). Understanding Pashtunwali and the Manifestation of Pashtun Nationalism in Pakistan: A Conceptual Analysis. *Global Social Sciences Review*. DOI: [10.31703/gssr.2019(iv-i).35](https://doi.org/10.31703/gssr.2019(iv-i).35)
+- Bala, S. (2013). Waging Nonviolence: Reflections on the History Writing of the Pashtun Nonviolent Movement Khudai Khidmatgar. *Peacemaking and Peacekeeping*. DOI: [10.1111/PECH.12009](https://doi.org/10.1111/PECH.12009)
+- Saigol, R. (2012). The multiple self: interfaces between Pashtun nationalism and religious conflict on the frontier. DOI: [10.1080/19472498.2012.664418](https://doi.org/10.1080/19472498.2012.664418)
+- Raqib, M. (2009). The Muslim Pashtun Movement of the North-West Frontier of India, 1930–1934. DOI: [10.1057/9780230101753_9](https://doi.org/10.1057/9780230101753_9)
+
+### 1. Introduction to Pashtun Nationalism and Religion
+
+Pashtun nationalism, a complex and multifaceted phenomenon, plays a significant role in the socio-political landscape of Afghanistan and Pakistan. The Pashtuns, an ethnic group with a rich history and distinct cultural identity, have been at the center of various nationalist movements that have sought to assert their political and cultural rights within the broader contexts of both Afghan and Pakistani states. This nationalism is not only a product of historical events but is also heavily influenced by religious beliefs, especially Islam, which has been a core component of Pashtun identity.
+
+#### 1.1. Historical Roots of Pashtun Nationalism
+
+The historical roots of Pashtun nationalism date back to the colonial period and the subsequent independence movements in South Asia. During British colonial rule, the Pashtun regions, particularly the North-West Frontier Province (NWFP) of British India (now Khyber Pakhtunkhwa in Pakistan), became a focal point of resistance against colonial authority. The Pashtuns, who were often characterized by the British as a "warlike" and "tribal" people, used their strong sense of ethnic and cultural identity to resist external domination. The early 20th century saw the emergence of organized Pashtun nationalist movements, such as the Khudai Khidmatgar ("Servants of God") movement led by Khan Abdul Ghaffar Khan, which adopted nonviolent resistance as a strategy against British colonial rule (Raqib, 2009)【DOI: 10.1057/9780230101753_9】.
+
+#### 1.2. Pashtunwali and Its Influence on Nationalism
+
+Central to the Pashtun identity is *Pashtunwali*, a centuries-old code of conduct that emphasizes values such as hospitality, honor, and revenge. Pashtunwali not only guides social and moral conduct but also serves as a framework for political organization and resistance. The cultural code is seen as a source of unity among the Pashtuns, reinforcing a sense of collective identity that is essential for nationalist sentiment. As Khan, Faheem, and Gul (2019) note, Pashtunwali has historically been a unifying factor that strengthens Pashtun nationalism, providing a moral foundation for their struggle against external domination and perceived injustices (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】.
+
+#### 1.3. The Interplay between Religion and Nationalism
+
+Religion, particularly Islam, plays a crucial role in shaping Pashtun nationalism. Unlike secular nationalism, which might prioritize ethnic or cultural identity alone, Pashtun nationalism often incorporates Islamic values and principles. This synthesis of religion and nationalism is evident in the way Pashtun political movements have framed their objectives. For instance, during the Afghan Jihad against the Soviet invasion in the 1980s, Islamic ideology was mobilized alongside nationalist sentiments to galvanize support for the resistance. Pakistan’s policy of “strategic depth” and its involvement in the Afghan Jihad further intertwined religious extremism with Pashtun nationalism, leading to a complex socio-political environment where the rise of religious extremism began to weaken traditional nationalist sentiments (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】.
+
+#### 1.4. External Interventions and Their Impact
+
+External interventions have played a significant role in shaping Pashtun nationalism. The geopolitical interests of major powers, particularly during the Cold War, had profound implications for the Pashtun regions. The Soviet invasion of Afghanistan in 1979 and the subsequent involvement of the United States, Pakistan, and other countries in the Afghan conflict significantly altered the dynamics of Pashtun nationalism. The Afghan Jihad, which was supported by the US and Pakistan, saw a convergence of religious and nationalist discourses. The aftermath of the Jihad and the rise of the Taliban further complicated the situation, as the Taliban emerged as a Pashtun-dominated movement that combined religious fundamentalism with elements of Pashtun nationalism (Saikal, 2010)【DOI: 10.1080/13602001003650572】.
+
+#### 1.5. Contemporary Developments and the Role of Religion in Pashtun Nationalism
+
+In recent decades, the nature of Pashtun nationalism has evolved in response to both internal and external pressures. The rise of the Pashtun Tahafuz (protection) movement in Pakistan, for example, reflects a new phase of peripheral nationalism that challenges the state’s policies in the wake of the War on Terror. This movement, emerging in the aftermath of military operations and alleged human rights violations in the Pashtun regions, demonstrates how Pashtun nationalism continues to be shaped by contemporary socio-political realities (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】. Here, too, religion remains a significant factor, as the movement often draws on Islamic principles to articulate its grievances and demands.
+
+#### 1.6. Conclusion
+
+Understanding Pashtun nationalism requires a nuanced appreciation of the interplay between historical events, cultural practices like Pashtunwali, religious beliefs, and the impacts of external interventions. The relationship between nationalism and religion among the Pashtuns is not static; it has evolved in response to changing political, social, and geopolitical circumstances. As such, Pashtun nationalism represents a dynamic socio-political force that continues to shape the identities and political aspirations of the Pashtun people in both Afghanistan and Pakistan. This survey paper will delve deeper into these themes, exploring the multifaceted nature of Pashtun nationalism and the role of religion in shaping its trajectory.
+
+### 2. Historical Context and Emergence of Pashtun Nationalism
+
+The emergence of Pashtun nationalism is deeply rooted in the colonial history of South Asia and the subsequent geopolitical developments that have influenced the region. Understanding this historical context is crucial to comprehending the complex interplay between ethnicity, nationalism, and political power among the Pashtuns in both Afghanistan and Pakistan.
+
+#### 2.1. Colonial Era and the Genesis of Pashtun Nationalism
+
+Pashtun nationalism began to take shape during the British colonial period in India, particularly in the North-West Frontier Province (NWFP), now known as Khyber Pakhtunkhwa in Pakistan. The British colonial administration's policies towards the Pashtun tribes were characterized by a combination of military expeditions, political agreements, and the creation of administrative boundaries, such as the Durand Line in 1893, which artificially divided the Pashtun population between British India and Afghanistan (Raqib, 2009)【DOI: 10.1057/9780230101753_9】. The division created a sense of grievance among the Pashtuns, who saw the demarcation as an infringement on their traditional tribal lands and autonomy.
+
+The colonial period was marked by a series of conflicts and uprisings led by Pashtun tribes against British rule. However, the early 20th century witnessed a significant shift in the nature of Pashtun resistance from armed confrontations to organized, nonviolent political movements. This change was influenced by the broader anti-colonial struggle across India and the adoption of nonviolent resistance strategies championed by leaders like Mahatma Gandhi.
+
+#### 2.2. The Khudai Khidmatgar Movement and Nonviolent Resistance
+
+A pivotal moment in the history of Pashtun nationalism was the formation of the Khudai Khidmatgar (Servants of God) movement in the 1930s, led by Khan Abdul Ghaffar Khan, also known as the "Frontier Gandhi." The Khudai Khidmatgar movement was a radical departure from the previous methods of resistance, as it emphasized nonviolent struggle against British colonial rule. The movement drew heavily on Islamic principles of peace and justice, as well as the cultural values of Pashtunwali, to mobilize the Pashtun population against colonial oppression (Bala, 2013)【DOI: 10.1111/PECH.12009】.
+
+The Khudai Khidmatgar movement's nonviolent approach was significant in several ways. First, it challenged the colonial stereotypes that depicted Pashtuns as inherently violent and incapable of peaceful resistance. By organizing mass protests, civil disobedience, and community-based initiatives, the movement sought to demonstrate the moral and political legitimacy of the Pashtun nationalist cause. Second, the movement's emphasis on education, social reform, and women's rights represented a progressive agenda that sought to modernize Pashtun society while retaining its cultural and religious identity.
+
+#### 2.3. Impact of British Policies on Pashtun Identity and Nationalism
+
+The British colonial policies significantly impacted the development of Pashtun identity and nationalism. The establishment of the NWFP as a separate administrative entity in 1901 was a response to the unique challenges posed by the Pashtun tribes and their resistance to direct British control. The British adopted a policy of indirect rule, relying on local tribal leaders and agreements to maintain stability in the region. This policy, while temporarily effective, also fostered a sense of distinct identity and autonomy among the Pashtuns, who viewed themselves as separate from both the British rulers and the broader Indian nationalist movement (Raqib, 2009)【DOI: 10.1057/9780230101753_9】.
+
+Moreover, the British practice of "divide and rule" further entrenched ethnic and tribal divisions within the region, sowing seeds of discord that would later influence the nature of Pashtun nationalism. The British strategy of recruiting Pashtuns into the Indian Army and using them to maintain order in other parts of India and the empire also contributed to a unique form of Pashtun identity that combined martial traditions with a sense of loyalty to the state. This complex identity would later evolve into a more politically conscious and nationally oriented Pashtun nationalism.
+
+#### 2.4. Post-Colonial Geopolitical Conflicts and Pashtun Nationalism
+
+The partition of India in 1947 and the creation of Pakistan had profound implications for Pashtun nationalism. The Pashtuns found themselves divided between two new states, Afghanistan and Pakistan, each with its own political agenda and national interests. The Pashtuns in Pakistan, particularly in the NWFP, initially faced political and cultural marginalization as the new state sought to consolidate its authority and promote a unified national identity based on Islam and Urdu.
+
+In response to perceived injustices and political exclusion, Pashtun nationalist leaders in Pakistan, such as Khan Abdul Wali Khan, continued to advocate for greater autonomy and recognition of Pashtun identity within the framework of the Pakistani state. The demand for "Pashtunistan," an independent state for Pashtuns, gained traction in the 1950s and 1960s, fueled by both internal grievances and external support from Afghanistan, which saw itself as a protector of Pashtun rights across the Durand Line (Saikal, 2010)【DOI: 10.1080/13602001003650572】.
+
+#### 2.5. The Afghan Jihad and the Shifting Dynamics of Pashtun Nationalism
+
+The Soviet invasion of Afghanistan in 1979 and the subsequent Afghan Jihad dramatically altered the landscape of Pashtun nationalism. The conflict saw the rise of Islamist factions within the Pashtun nationalist movement, as religious identity increasingly came to the fore in the fight against Soviet forces. Pakistan's strategic use of Islamist groups, including the Taliban, as proxies in the conflict further blurred the lines between religious and ethnic nationalism among the Pashtuns.
+
+The impact of the Afghan Jihad and the rise of the Taliban in the 1990s led to a fragmentation of Pashtun nationalism, as traditional nationalist agendas were overshadowed by the agendas of religious extremism and militant jihadism. This shift weakened secular Pashtun nationalist parties, such as the Awami National Party (ANP) in Pakistan, and contributed to a more complex and contentious political environment (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】.
+
+#### 2.6. Conclusion
+
+The historical context of Pashtun nationalism reveals a dynamic interplay of ethnic identity, religious ideology, and political strategy. From the early days of colonial resistance to the contemporary challenges posed by religious extremism and geopolitical conflicts, Pashtun nationalism has continually evolved in response to internal and external pressures. Understanding this evolution is key to analyzing the current state of Pashtun political movements and their implications for regional stability in South Asia. This survey will further explore these themes, examining how historical legacies continue to shape the trajectory of Pashtun nationalism in both Afghanistan and Pakistan.
+
+### 3. Interplay of Nationalism and Religion in Pashtun Society
+
+The complex interplay between nationalism and religion in Pashtun society has significantly influenced the socio-political dynamics in Afghanistan and Pakistan. Pashtun society, characterized by its distinct cultural identity and tribal structure, has historically integrated elements of both nationalism and religion into its social fabric. Surat Khan's (2019) study provides a detailed analysis of how these two forces interact and the implications of their convergence and divergence over time, particularly in light of external political developments and state policies (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】.
+
+#### 3.1. The Dual Foundations of Pashtun Society: Nationalism and Religion
+
+Pashtun society is traditionally built upon two primary pillars: ethnic nationalism and Islamic religion. Nationalism among the Pashtuns is largely rooted in their ethnic identity, cultural heritage, and the code of Pashtunwali, which emphasizes principles such as hospitality, honor, and revenge. This code fosters a strong sense of communal belonging and loyalty among the Pashtuns, reinforcing their identity as a distinct group with shared historical and cultural roots.
+
+At the same time, Islam has played a central role in shaping the values and social norms of Pashtun society. The majority of Pashtuns are Sunni Muslims, and their religious identity is interwoven with their ethnic identity. The teachings of Islam, including concepts of justice, communal welfare, and resistance against oppression, resonate deeply with the Pashtun ethos. This dual foundation of nationalism and religion has allowed Pashtun society to adapt and respond to various internal and external challenges over time.
+
+#### 3.2. Convergence and Divergence: The Role of External Policies
+
+Surat Khan (2019) argues that the relationship between nationalism and religion in Pashtun society has been significantly influenced by external political developments and state policies, particularly those of Pakistan. During the Afghan Jihad in the 1980s, Pakistan's policy of "strategic depth" aimed to counter Soviet influence in Afghanistan by supporting Islamist groups, including various Mujahideen factions. This policy had a profound impact on Pashtun society, especially in the border regions of Pakistan, where the influx of radical ideologies led to an increase in religious extremism (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】.
+
+The Afghan Jihad and Pakistan's involvement transformed the socio-political landscape of Pashtun areas. As religious narratives gained prominence, the traditional nationalist sentiments based on Pashtun identity and cultural heritage began to weaken. The rise of extremist groups that employed a narrow interpretation of Islam not only undermined the secular nationalist movements but also diluted the broader Pashtun cultural symbols and traditions. This shift marked a significant divergence in the interplay between nationalism and religion in Pashtun society.
+
+#### 3.3. Impact of Religious Extremism on Pashtun Nationalism
+
+The rise of religious extremism in Pashtun areas during and after the Afghan Jihad had several critical consequences for Pashtun nationalism. First, it led to the fragmentation of the Pashtun nationalist movement. As Islamist groups gained power and influence, they challenged the secular nationalist parties that had historically represented Pashtun interests, such as the Awami National Party (ANP) in Pakistan. The ideological shift from secular nationalism to religious fundamentalism eroded the traditional bases of Pashtun political power, weakening the collective Pashtun identity that had previously been a source of unity and resistance against external domination (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】.
+
+Second, the spread of extremism led to the marginalization of Pashtun cultural practices and traditions, which were often viewed as incompatible with the rigid interpretations of Islam promoted by extremist groups. For example, the Pashtunwali code, with its emphasis on local customs and tribal laws, was increasingly overshadowed by the imposition of Sharia law as interpreted by radical clerics. This erosion of cultural practices not only weakened Pashtun nationalism but also created divisions within Pashtun society itself, as different factions aligned with either secular or religious ideologies.
+
+#### 3.4. The Decline of Pashtun Nationalism and the Rise of Religious Identity
+
+Khan (2019) further highlights that the decline of Pashtun nationalism in the face of rising religious extremism has had lasting implications for the socio-political fabric of Pashtun society. The weakening of nationalist sentiments has resulted in a loss of political cohesion among the Pashtuns, who have historically resisted external control through a strong sense of ethnic identity and solidarity. The rise of religious identity as a primary political and social marker has not only fragmented the Pashtun nationalist movement but has also facilitated external manipulation by state and non-state actors seeking to exploit these divisions for political gain (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】.
+
+#### 3.5. Contemporary Repercussions and Future Trajectories
+
+The current socio-political landscape in Pashtun areas reflects the complex legacy of the interplay between nationalism and religion. On one hand, there is a resurgence of efforts to revive Pashtun cultural identity and nationalist sentiments, as seen in movements like the Pashtun Tahafuz Movement (PTM), which seeks to address grievances related to human rights violations, state repression, and marginalization of Pashtuns in Pakistan (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】. On the other hand, the continued influence of religious extremism poses challenges to these efforts, as ideological divisions persist within Pashtun society.
+
+The future trajectory of Pashtun nationalism will likely depend on several factors, including the ability of secular nationalist movements to reclaim their political space, the role of the state in addressing Pashtun grievances, and the broader regional dynamics that continue to influence the socio-political environment in Afghanistan and Pakistan. A nuanced understanding of the interplay between nationalism and religion is crucial for policymakers and scholars alike to navigate these complexities and promote stability in the region.
+
+#### 3.6. Conclusion
+
+The interplay of nationalism and religion in Pashtun society is a dynamic and evolving process that has shaped, and continues to shape, the socio-political landscape in Afghanistan and Pakistan. While both nationalism and religion have historically provided a foundation for Pashtun identity and resistance, the rise of religious extremism during the Afghan Jihad and its aftermath has altered this relationship, leading to a decline in traditional nationalist sentiments. Understanding this interplay is essential for grasping the current and future political dynamics of Pashtun society.
+
+### 4. Pashtun Nationalism and the Taliban
+
+The relationship between Pashtun nationalism and the Taliban is complex and multifaceted, influenced by historical, political, and socio-cultural dynamics in Afghanistan and Pakistan. The Taliban, an Islamist militant group that emerged in the 1990s, has often been perceived primarily as a religious entity. However, A. Saikal (2010) argues that the Taliban also represents a form of Pashtun nationalism, particularly in contexts where peace and stability are absent (Saikal, 2010)【DOI: 10.1080/13602001003650572】. This dual characterization reflects a convergence of religious fervor and nationalist sentiment among the Pashtun people, underscoring the fluid interplay between identity politics and militant movements.
+
+#### 4.1. The Emergence of the Taliban and its Pashtun Roots
+
+The Taliban movement originated in the early 1990s in the Pashtun-majority areas of southern Afghanistan, emerging from the socio-political vacuum left by the Soviet withdrawal and the subsequent collapse of the Afghan government. Initially composed of religious students (talibs) from local madrassas, the Taliban drew substantial support from Pashtun tribes, who viewed the group as a stabilizing force capable of restoring order and enforcing a strict interpretation of Islamic law (Sharia) (Saikal, 2010)【DOI: 10.1080/13602001003650572】. The Taliban's early appeal was closely tied to the cultural and social dynamics of Pashtun society, which values honor, justice, and order—principles the Taliban promised to uphold amid widespread lawlessness.
+
+The Taliban's rise to power can also be seen in the context of Pashtun nationalism. The movement's leadership and much of its rank and file were predominantly Pashtun, reflecting the ethnic composition of the regions where they initially operated. The Taliban leveraged Pashtun grievances against perceived marginalization by non-Pashtun factions during the Afghan civil war, positioning themselves as protectors of Pashtun rights and defenders of Islamic values. This positioning created a strong overlap between Pashtun ethnic identity and the Taliban's religious ideology.
+
+#### 4.2. Convergence of Nationalist and Religious Sentiments
+
+A key argument presented by Saikal (2010) is that, in the absence of peace and stability, the Taliban could be perceived not just as a religious force but also as a nationalist one, embodying the aspirations of many Pashtuns for autonomy and self-determination (Saikal, 2010)【DOI: 10.1080/13602001003650572】. This perception is rooted in the historical context of Pashtun resistance to external interference, whether from colonial powers, the Soviet Union, or non-Pashtun factions within Afghanistan. The Taliban's rhetoric and actions often blended calls for religious purity with appeals to Pashtun pride and resistance against foreign occupation, whether Soviet or American.
+
+The convergence of nationalist and religious sentiments is evident in the Taliban's strategic narrative, which framed their struggle as a jihad (holy war) not only against foreign invaders but also in defense of Pashtun land and identity. This dual narrative resonated deeply within Pashtun communities, where historical memories of resistance against external domination are a potent source of collective identity. By portraying themselves as both defenders of Islam and protectors of Pashtun territory, the Taliban were able to garner widespread support among Pashtuns, particularly in rural areas where tribal allegiances and Islamic values are deeply intertwined.
+
+#### 4.3. The Taliban's Influence on Pashtun Nationalism
+
+The Taliban's rise and their role in Afghanistan's complex socio-political landscape had significant implications for Pashtun nationalism. On one hand, the Taliban's ascendancy provided a platform for expressing Pashtun nationalist aspirations, particularly in regions where Pashtuns felt marginalized by non-Pashtun political elites. On the other hand, the Taliban's radical religious ideology often clashed with the more secular and culturally oriented aspects of traditional Pashtun nationalism, leading to a reconfiguration of what it means to be a "Pashtun nationalist."
+
+Saikal (2010) notes that while the Taliban could be seen as a nationalist force in the absence of stability, their strict enforcement of Sharia law and suppression of cultural practices that did not conform to their interpretation of Islam sometimes put them at odds with Pashtun cultural norms and the secular nationalist agenda (Saikal, 2010)【DOI: 10.1080/13602001003650572】. This tension reflects the fluid and contested nature of Pashtun nationalism, which has to navigate between the poles of ethnic identity, cultural traditions, and religious ideology.
+
+#### 4.4. The Taliban and the Pashtun Tribes in Pakistan
+
+The Taliban's influence is not confined to Afghanistan but extends into Pakistan, particularly in the Federally Administered Tribal Areas (FATA) and Khyber Pakhtunkhwa, where Pashtuns constitute a significant portion of the population. The Pakistani Taliban, or Tehrik-i-Taliban Pakistan (TTP), emerged as an offshoot of the Afghan Taliban, adopting similar ideological and operational strategies. However, in the Pakistani context, the Taliban's relationship with Pashtun nationalism is even more complex.
+
+The TTP has sought to leverage Pashtun grievances against the Pakistani state, which many Pashtuns perceive as dominated by Punjabi and Urdu-speaking elites. By positioning themselves as defenders of Pashtun rights and promoters of Islamic governance, the TTP has tried to gain legitimacy among local Pashtun tribes. However, the TTP's extremist tactics, including attacks on civilians and the suppression of local cultural practices, have often alienated significant segments of the Pashtun population, leading to a fragmented response from Pashtun nationalists in Pakistan (Saikal, 2010)【DOI: 10.1080/13602001003650572】.
+
+#### 4.5. The Fluidity of Pashtun Identity and the Taliban
+
+The relationship between Pashtun nationalism and the Taliban underscores the fluidity of Pashtun identity, which is shaped by a range of social, cultural, and political factors. While the Taliban have at times successfully framed themselves as defenders of Pashtun interests, their radical religious agenda and harsh governance methods have also generated resistance among Pashtuns who value their cultural autonomy and traditional practices.
+
+This fluidity is further complicated by the external interventions and geopolitical strategies of regional and global powers. The Taliban's fluctuating fortunes—rising in influence during periods of instability and facing setbacks during more stable times—highlight the dynamic and contested nature of Pashtun nationalism. As Saikal (2010) suggests, the Taliban's ability to be perceived as a nationalist force is largely contingent on the broader socio-political context, particularly the presence or absence of peace and stability (Saikal, 2010)【DOI: 10.1080/13602001003650572】.
+
+#### 4.6. Conclusion
+
+The complex interplay between Pashtun nationalism and the Taliban movement illustrates the evolving nature of identity politics in Afghanistan and Pakistan. The Taliban's rise and their strategic use of nationalist and religious narratives underscore the fluid and dynamic character of Pashtun nationalism, which is shaped by both internal dynamics and external interventions. Understanding this relationship is crucial for analyzing the future trajectories of Pashtun political movements and their implications for regional stability in South Asia.
+
+### 5. Rise of Peripheral Nationalist Movements: Pashtun Tahafuz Movement
+
+The Pashtun Tahafuz Movement (PTM), or Pashtun Protection Movement, represents a significant development in the landscape of peripheral nationalism in Pakistan. Emerging in the early 2010s, the PTM has rapidly become a powerful voice for the Pashtun population, particularly in response to state policies and military operations in the tribal areas following the events of 9/11 and the subsequent war on terrorism. Ahmed and Khan (2020) offer a comprehensive analysis of the PTM, positioning it as a new and challenging phenomenon in the socio-political dynamics of Pakistan (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+#### 5.1. Background and Emergence of the Pashtun Tahafuz Movement
+
+The PTM originated in the context of long-standing grievances among the Pashtun population in Pakistan’s tribal areas, especially in the Federally Administered Tribal Areas (FATA) and Khyber Pakhtunkhwa (KP). These regions have historically been marginalized and subjected to harsh state policies, including military operations, enforced disappearances, and a lack of socio-economic development. The war on terrorism, which began in the wake of the 9/11 attacks, brought further military incursions into these areas, exacerbating the suffering of local communities and leading to significant displacement, loss of life, and destruction of property (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+The immediate catalyst for the PTM was the killing of Naqeebullah Mehsud, a young Pashtun man, in a staged police encounter in Karachi in January 2018. His death sparked widespread outrage and brought to the forefront long-standing grievances about state brutality, discrimination, and the treatment of Pashtuns as second-class citizens. The PTM quickly gained momentum, organizing mass protests and rallies demanding justice for Naqeebullah and an end to what they saw as systemic oppression of the Pashtun people.
+
+#### 5.2. Core Demands and Ideological Foundations of the PTM
+
+The PTM is driven by a set of core demands that reflect broader grievances within the Pashtun community. These include:
+
+- **Justice for Extrajudicial Killings**: One of the movement's primary demands is accountability for the extrajudicial killings of Pashtuns by state forces. The killing of Naqeebullah Mehsud is seen as emblematic of a broader pattern of abuse and injustice.
+  
+- **End to Enforced Disappearances**: The PTM has called for an end to enforced disappearances, a practice in which individuals are detained by state forces without due process and often subjected to torture or extrajudicial execution. The movement has been vocal in demanding the release of all "missing persons" or at least transparency about their whereabouts and legal status.
+
+- **Removal of Landmines**: Another significant demand is the removal of landmines and unexploded ordnance from conflict areas in FATA and KP. These remnants of past military operations pose a continuing threat to civilian life and mobility in these regions.
+
+- **End to Collective Punishment and Military Checkpoints**: The PTM also opposes the use of collective punishment practices, such as the destruction of homes and property in retaliation for insurgent activities. It calls for the dismantling of military checkpoints, which are seen as a source of harassment and humiliation for local residents.
+
+These demands reflect the PTM's focus on human rights, civil liberties, and justice, positioning it as a movement against state violence and discrimination rather than a separatist or ethnonationalist movement per se (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+#### 5.3. PTM and Peripheral Nationalism
+
+Ahmed and Khan (2020) frame the PTM as a form of "peripheral nationalism," a concept used to describe nationalist movements that arise from marginalized communities within a state, often in response to exclusionary policies or state violence (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】. In the case of the PTM, this peripheral nationalism is articulated not through demands for secession but through calls for recognition, rights, and justice within the framework of the Pakistani state.
+
+The PTM represents a new wave of Pashtun political activism that diverges from earlier forms of Pashtun nationalism, which were more focused on ethnic identity and autonomy. Instead, the PTM emphasizes universal human rights and justice, leveraging both national and international human rights discourses to advocate for Pashtun rights. This approach has allowed the PTM to attract a broad base of support, including women, youth, and urban Pashtuns, who may not have been involved in traditional nationalist politics.
+
+#### 5.4. PTM’s Strategies and Methods of Mobilization
+
+The PTM's methods of mobilization are notable for their use of nonviolent civil disobedience and grassroots activism. The movement has organized numerous large-scale rallies, sit-ins, and marches across Pakistan, drawing significant attention to their cause both domestically and internationally. Social media has played a crucial role in the PTM’s strategy, allowing them to bypass traditional media channels, which are often censored or controlled by the state, to disseminate their message and coordinate activities (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+The PTM's emphasis on peaceful protest and civil rights has positioned it as a democratic and reformist force within Pakistan. However, this stance has also led to significant pushback from the Pakistani state, which has accused the movement of being manipulated by foreign powers and of undermining national security. These accusations have been accompanied by crackdowns on PTM activists, media censorship, and legal actions aimed at curbing the movement’s activities.
+
+#### 5.5. State Response and the Challenges to PTM
+
+The rise of the PTM has posed a significant challenge to the Pakistani state, which has traditionally viewed any form of ethnic or regional dissent through a security lens. The state's response to the PTM has been characterized by a mix of repression and co-optation. On one hand, there have been arrests of PTM leaders, restrictions on media coverage, and attempts to delegitimize the movement through accusations of sedition and foreign involvement. On the other hand, there have been some attempts at dialogue and reform, including discussions on the integration of FATA into KP and efforts to address some of the grievances raised by the movement (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+Despite these challenges, the PTM has continued to grow and maintain its stance on nonviolence and civil rights, reflecting a broader trend towards rights-based activism in Pakistan. The movement's ability to sustain itself in the face of state repression is indicative of the depth of the grievances it represents and the resilience of its grassroots support base.
+
+#### 5.6. Broader Implications of the PTM for Pashtun Nationalism
+
+The emergence of the PTM marks a significant shift in the trajectory of Pashtun nationalism in Pakistan. Unlike earlier nationalist movements that focused primarily on ethnic identity and autonomy, the PTM's rights-based approach and emphasis on nonviolent protest suggest a new model of peripheral nationalism that is more inclusive and focused on civil rights within the state framework. This evolution has implications not only for Pashtun nationalism but also for the broader dynamics of ethnic politics and state-society relations in Pakistan.
+
+Moreover, the PTM’s rise highlights the changing nature of nationalist movements in the 21st century, where issues of human rights, social justice, and civic equality are increasingly taking precedence over traditional ethnic or territorial concerns. This shift reflects a more globalized and interconnected world, where local movements are able to draw on international norms and networks to advance their causes.
+
+#### 5.7. Conclusion
+
+The Pashtun Tahafuz Movement represents a new wave of peripheral nationalism in Pakistan, characterized by its focus on human rights, civil liberties, and justice. As Ahmed and Khan (2020) illustrate, the PTM poses a significant challenge to the Pakistani state by highlighting the socio-political dynamics of marginalization and exclusion faced by the Pashtun population (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】. The movement’s rise underscores the evolving nature of nationalism in Pakistan and the broader South Asian region, suggesting new pathways for political mobilization and state-society engagement in the future.
+
+### 6. Cultural Dimensions: Pashtunwali and National Identity
+
+Pashtunwali, the centuries-old code of conduct governing the Pashtun way of life, is a fundamental cultural cornerstone that underpins Pashtun nationalism and identity. This customary code encompasses a set of unwritten laws and ethical guidelines that dictate social behavior, community relations, and individual conduct among the Pashtuns. As Khan et al. (2019) argue, Pashtunwali not only reinforces a sense of unity and identity among the Pashtuns but also serves as a cultural bedrock for their nationalist sentiments (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】. Over time, Pashtun nationalism has evolved from advocating for a separate state to seeking greater rights and recognition within the framework of the Pakistani constitution, reflecting a shift from an external nationalist struggle to an internal one.
+
+#### 6.1. Understanding Pashtunwali: Principles and Social Significance
+
+Pashtunwali, or "the way of the Pashtuns," encompasses several key principles, including *melmastia* (hospitality), *nanawati* (asylum), *badal* (revenge), *ghayrat* (honor), *tarboorwali* (agnatic rivalry), and *jirga* (council). Each of these elements plays a critical role in maintaining social cohesion and regulating interpersonal relations within Pashtun communities. For instance, *melmastia* emphasizes the importance of hospitality and generosity, while *nanawati* involves granting asylum to those who seek protection, even at great personal risk. These principles are deeply ingrained in Pashtun society and are considered non-negotiable moral imperatives.
+
+The social significance of Pashtunwali lies in its role as a unifying force that binds Pashtun communities together across tribal lines and geographical boundaries. By adhering to a shared code of conduct, Pashtuns maintain a strong sense of cultural continuity and collective identity, which has been crucial in their historical resistance to external domination, whether by colonial powers, state authorities, or foreign invaders. Pashtunwali provides a framework for understanding justice, honor, and social order, reinforcing a communal identity that is distinct from both the state and other ethnic groups in the region.
+
+#### 6.2. Pashtunwali and the Evolution of Pashtun Nationalism
+
+The principles of Pashtunwali have historically underpinned Pashtun nationalism, providing a cultural and ethical foundation for political mobilization. In the early 20th century, Pashtun nationalism was closely associated with the idea of establishing a separate Pashtun state, or "Pashtunistan," in response to the perceived marginalization and domination by other ethnic groups within both Afghanistan and British India (later Pakistan). This form of nationalism was largely externally oriented, focusing on the creation of a separate political entity that could preserve Pashtun cultural autonomy and independence.
+
+However, as Khan et al. (2019) note, there has been a significant transformation in Pashtun nationalist discourse in recent decades, shifting from the demand for a separate state to advocating for rights and recognition within the existing state framework, particularly within Pakistan (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】. This shift reflects a broader reorientation from an external struggle for independence to an internal struggle for cultural survival and political representation. 
+
+This evolution can be attributed to several factors:
+
+- **Integration into State Structures**: Over time, the integration of Pashtun regions into the administrative and political structures of Pakistan has reduced the viability of a separatist agenda. The incorporation of tribal areas into Khyber Pakhtunkhwa province and the extension of Pakistani laws and governance structures have fostered a sense of political belonging among many Pashtuns, even as they continue to seek greater autonomy and rights within the state.
+
+- **Impact of State Policies and Military Operations**: The Pakistani state's policies, especially those implemented in the wake of the war on terrorism, have also shaped the trajectory of Pashtun nationalism. The militarization of Pashtun regions and the impact of military operations on local communities have prompted Pashtun nationalists to focus on issues such as human rights, justice, and economic development, rather than separatism. This pragmatic shift reflects a recognition of the realities of state power and the need to work within existing frameworks to achieve their goals.
+
+- **Rise of Peripheral Nationalist Movements**: The emergence of movements like the Pashtun Tahafuz Movement (PTM), which focuses on human rights and civil liberties, reflects a broader shift in Pashtun political consciousness. The PTM's emphasis on nonviolent protest and civil rights within the Pakistani constitutional framework signifies a departure from earlier nationalist movements that prioritized ethnic identity and autonomy over other concerns (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+#### 6.3. Pashtunwali and National Identity in Contemporary Context
+
+In the contemporary context, Pashtunwali continues to play a crucial role in shaping Pashtun identity and nationalism, albeit in a more nuanced and complex manner. While the traditional principles of Pashtunwali remain central to Pashtun social and cultural life, their interpretation and application have evolved in response to changing political realities and societal needs.
+
+For example, the concept of *badal* (revenge), which has historically been a cornerstone of Pashtunwali, is increasingly being reinterpreted in the context of modern legal systems and human rights frameworks. Similarly, the *jirga* system, a traditional council of elders that adjudicates disputes according to tribal customs, has adapted to incorporate elements of state law and international norms, reflecting a hybridization of traditional and modern forms of governance.
+
+This adaptive capacity of Pashtunwali is critical to understanding the resilience of Pashtun identity and nationalism. Rather than being a static or monolithic code, Pashtunwali has demonstrated a remarkable ability to evolve and respond to new challenges, whether in the form of state policies, external interventions, or internal socio-economic changes. This adaptability has allowed Pashtunwali to remain a vital source of cultural continuity and political mobilization, even as the nature of Pashtun nationalism has shifted from separatism to a rights-based struggle within the state.
+
+#### 6.4. The Role of Pashtunwali in Political Mobilization
+
+Pashtunwali continues to serve as a powerful tool for political mobilization, providing a cultural framework that unites Pashtuns across tribal, regional, and political divides. The emphasis on honor, hospitality, and justice resonates deeply with the Pashtun sense of identity and has been effectively employed by political leaders and movements to galvanize support and articulate political demands.
+
+For instance, political parties like the Awami National Party (ANP) and movements such as the PTM have drawn upon the principles of Pashtunwali to frame their demands for greater autonomy, justice, and human rights. By invoking Pashtunwali, these movements appeal to a shared cultural heritage that transcends the immediate political context, enabling them to build broad-based coalitions and sustain their mobilization efforts over time (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】.
+
+#### 6.5. Conclusion
+
+Pashtunwali remains a central pillar of Pashtun identity and nationalism, serving both as a cultural code that regulates social behavior and as a political tool for mobilization. The evolving interpretation and application of Pashtunwali in response to changing socio-political realities reflect the dynamic nature of Pashtun nationalism, which has shifted from an external struggle for independence to an internal struggle for rights and recognition within the state framework. As Khan et al. (2019) highlight, this shift underscores the transformation of Pashtun nationalism from a focus on separatism to a more inclusive, rights-based agenda that seeks to navigate the complex terrain of state-society relations in contemporary Pakistan (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】.
+
+### 7. Nonviolent Resistance and Pashtun Stereotypes
+
+The Khudai Khidmatgar movement, also known as the "Red Shirts" or "Servants of God," stands as a significant example of nonviolent resistance within Pashtun society. Analyzed extensively by Bala (2013), this movement defies the stereotypical portrayal of Pashtuns as inherently violent and challenges the dominant historical narratives that have often marginalized or misunderstood the diverse political strategies employed by Pashtun communities (Bala, 2013)【DOI: 10.1111/PECH.12009】. The Khudai Khidmatgar movement not only redefines the perception of Pashtun resistance but also invites a deeper examination of nonviolent movements in broader historical and cultural contexts.
+
+#### 7.1. Historical Context and Origins of the Khudai Khidmatgar Movement
+
+The Khudai Khidmatgar movement emerged in the 1920s in the North-West Frontier Province (NWFP) of British India, a region predominantly inhabited by Pashtuns. The movement was founded by Khan Abdul Ghaffar Khan, also known as "Bacha Khan" or the "Frontier Gandhi," who was a devout Muslim and a close associate of Mahatma Gandhi. Influenced by Islamic principles of peace and nonviolence, as well as the broader anti-colonial struggle in India, Bacha Khan sought to mobilize the Pashtun community against British colonial rule through nonviolent means.
+
+The movement's philosophy was rooted in Islamic teachings that emphasize peace, justice, and the sanctity of life. Bacha Khan believed that true adherence to Islam involved not just spiritual devotion but also ethical conduct, social justice, and nonviolent resistance to oppression. The Khudai Khidmatgar members, clad in distinctive red shirts, undertook a rigorous program of nonviolent training, community service, and education, aiming to transform the Pashtun society from within by fostering a culture of peace, unity, and self-reliance (Bala, 2013)【DOI: 10.1111/PECH.12009】.
+
+#### 7.2. Challenging Stereotypes: The Pashtuns and Nonviolent Resistance
+
+One of the most significant contributions of the Khudai Khidmatgar movement was its challenge to the prevailing stereotypes of Pashtuns as inherently violent, tribal, and prone to militancy. These stereotypes were largely shaped by colonial narratives and the geopolitical interests of the British Empire, which often depicted Pashtuns as a "warlike" race that could only be governed through force and coercion. The portrayal of Pashtuns as "noble savages" suited the colonial agenda of justifying military interventions and maintaining control over the strategically important North-West Frontier region.
+
+The Khudai Khidmatgar movement, however, offered a stark contrast to these stereotypes by demonstrating that the Pashtuns were capable of disciplined, organized, and sustained nonviolent resistance. The movement's commitment to nonviolence was not a sign of weakness but a deliberate and strategic choice rooted in both Islamic values and a deep understanding of the political context. By rejecting violence, the Khudai Khidmatgar challenged the legitimacy of British rule and undermined the colonial state's ability to justify its presence in the region (Bala, 2013)【DOI: 10.1111/PECH.12009】.
+
+#### 7.3. The Strategic Use of Nonviolence
+
+The strategic use of nonviolence by the Khudai Khidmatgar was multifaceted. Firstly, it aimed to disrupt the colonial narrative that relied on portraying the Pashtuns as a violent group that needed to be subdued by military means. By adhering strictly to nonviolent principles, the movement exposed the brutality of the colonial regime, particularly when British forces responded with violence to peaceful protests and civil disobedience. This approach garnered sympathy and support from broader Indian nationalist movements and international observers, thereby putting moral and political pressure on the British government.
+
+Secondly, the Khudai Khidmatgar movement sought to transform Pashtun society internally. It emphasized social reform, education, and economic self-sufficiency, aiming to empower Pashtuns to resist both colonial rule and internal social injustices. The movement's nonviolent approach was not only a political strategy but also a moral stance, reflecting a commitment to higher ethical principles and a vision of a just and equitable society. This was particularly significant in a context where violence and retributive justice, as exemplified by the principle of *badal* (revenge) in Pashtunwali, were deeply embedded in the cultural fabric (Bala, 2013)【DOI: 10.1111/PECH.12009】.
+
+#### 7.4. Reassessing Historical Narratives of Nonviolent Resistance
+
+Bala (2013) argues that the Khudai Khidmatgar movement necessitates a critical reassessment of the historical narratives surrounding nonviolent resistance movements, particularly in the context of colonial and postcolonial histories (Bala, 2013)【DOI: 10.1111/PECH.12009】. Traditional accounts of anti-colonial resistance have often focused on violent rebellions and armed struggles, marginalizing or overlooking the significant contributions of nonviolent movements like the Khudai Khidmatgar.
+
+This oversight reflects broader biases in historical scholarship that tend to equate resistance with violence and fail to recognize the power and impact of nonviolent action. The Khudai Khidmatgar movement, with its emphasis on moral integrity, social reform, and peaceful resistance, challenges these biases and calls for a more nuanced understanding of anti-colonial struggles. It highlights the diversity of political strategies employed by colonized peoples and underscores the importance of nonviolent resistance as a legitimate and effective form of political action.
+
+#### 7.5. Broader Implications for Pashtun Nationalism and Identity
+
+The legacy of the Khudai Khidmatgar movement continues to resonate in contemporary Pashtun society, particularly in its influence on modern political movements that emphasize nonviolence, human rights, and social justice. The movement's rejection of violence and its commitment to peaceful resistance have inspired subsequent generations of Pashtuns to challenge state oppression and advocate for their rights within the framework of nonviolence.
+
+Furthermore, the movement's emphasis on Islamic principles of peace and justice provides a counter-narrative to the association of Pashtun identity with religious extremism and militancy. By reclaiming a tradition of nonviolent resistance, the Khudai Khidmatgar movement offers a more complex and multifaceted understanding of Pashtun identity, one that recognizes the potential for both peaceful and militant resistance within Pashtun society.
+
+#### 7.6. Conclusion
+
+The Khudai Khidmatgar movement stands as a powerful example of nonviolent resistance within Pashtun society, challenging prevailing stereotypes and offering a critical reassessment of the historical narratives surrounding nonviolent movements. As Bala (2013) demonstrates, the movement highlights the diversity of political strategies available to Pashtun communities and underscores the importance of nonviolent action as a legitimate and effective form of resistance (Bala, 2013)【DOI: 10.1111/PECH.12009】. Understanding the Khudai Khidmatgar movement is crucial for a more nuanced appreciation of Pashtun nationalism and the broader dynamics of resistance and identity in South Asia.
+
+### 8. Myth or Reality: The Construct of Pashtun Nationalism
+
+The concept of Pashtun nationalism has been a subject of considerable debate among scholars, with some arguing that it represents a coherent political ideology and others suggesting it is more of a mythical construct shaped by historical narratives and external perceptions. R. Saigol (2012) critically examines these debates, questioning the existence and coherence of Pashtun nationalism and challenging the simplistic tendency to equate Pashtun nationalism with Talibanization. Saigol's analysis suggests that the notion of Pashtun nationalism may be more imagined than real, shaped by both internal dynamics and external influences (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+#### 8.1. Defining Pashtun Nationalism: Ideological Ambiguities
+
+Pashtun nationalism is often understood as a political and cultural movement aimed at asserting the rights and identity of the Pashtun people, who are spread across Afghanistan and Pakistan. Historically, Pashtun nationalism has been associated with demands for greater autonomy or even independence, as exemplified by movements advocating for a separate state of "Pashtunistan" in the mid-20th century. However, Saigol (2012) argues that this understanding of Pashtun nationalism is fraught with ambiguities and inconsistencies (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+Unlike other forms of nationalism that are defined by clear territorial claims, political ideologies, or cultural identities, Pashtun nationalism lacks a coherent, unified agenda. Instead, it is characterized by a range of demands that vary across different contexts and historical periods. This fluidity makes it difficult to define Pashtun nationalism as a singular, cohesive movement. The absence of a centralized leadership or a unified political platform further complicates efforts to understand Pashtun nationalism as a coherent ideology.
+
+#### 8.2. Pashtun Nationalism vs. Talibanization: Distinguishing Factors
+
+A significant contribution of Saigol's (2012) paper is its challenge to the tendency to equate Pashtun nationalism with Talibanization. This conflation is common in both academic and policy discourses, where the Taliban's rise in the 1990s is often interpreted as an expression of Pashtun nationalism. Saigol argues that this view oversimplifies the complex socio-political dynamics in Pashtun areas and fails to recognize the distinct historical and ideological differences between Pashtun nationalism and the Taliban movement (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+While the Taliban emerged from Pashtun-majority regions in Afghanistan and Pakistan and initially drew support from some Pashtun tribes, their ideological underpinnings are fundamentally different from those of traditional Pashtun nationalism. The Taliban's ideology is primarily rooted in a radical interpretation of Islam, which often clashes with the more secular, cultural, and tribal ethos of Pashtun nationalism. Furthermore, the Taliban's use of violence and their authoritarian governance style stand in contrast to the more inclusive and pluralistic approaches traditionally associated with Pashtun nationalist movements.
+
+#### 8.3. The Imagined Nature of Pashtun Nationalism
+
+Saigol (2012) suggests that Pashtun nationalism may be more of an imagined construct than a real, coherent political movement. This perspective is informed by Benedict Anderson's concept of "imagined communities," where national identity is understood as a social construct shaped by historical narratives, cultural symbols, and collective imagination (Anderson, 1983). In the case of Pashtun nationalism, Saigol argues that much of what is perceived as "nationalist" is constructed through narratives of resistance, historical grievances, and cultural pride rather than a clearly articulated political ideology or agenda (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+This imagined nature of Pashtun nationalism is evident in the diverse range of expressions and forms it takes, from the demand for a separate state to calls for greater autonomy within Pakistan and Afghanistan. The lack of a unified political platform or coherent strategy further supports the idea that Pashtun nationalism is more of a loose, fluid identity rather than a concrete political reality. This fluidity allows Pashtun nationalism to be appropriated by different groups, each with its own agenda, whether it be tribal leaders, political parties, or militant organizations like the Taliban.
+
+#### 8.4. Internal Divisions and Fragmentation
+
+Another critical point raised by Saigol (2012) is the internal divisions and fragmentation within the Pashtun nationalist movement. Unlike other nationalist movements that are often characterized by a strong sense of unity and common purpose, Pashtun nationalism has historically been fragmented along tribal, regional, and ideological lines. These divisions are exacerbated by the complex social structure of Pashtun society, which is organized around tribal affiliations and local loyalties rather than a unified national identity (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+For example, the demands and priorities of Pashtun nationalists in Pakistan often differ significantly from those of their counterparts in Afghanistan. While some Pashtun nationalists in Pakistan have historically advocated for greater autonomy within the Pakistani state, others have called for the creation of an independent Pashtun state. In Afghanistan, Pashtun nationalism has often been more closely tied to state power, given the dominant position of Pashtuns in the Afghan government and military. These differing contexts and priorities further complicate efforts to define Pashtun nationalism as a cohesive or unified movement.
+
+#### 8.5. The Role of External Actors in Shaping Pashtun Nationalism
+
+Saigol (2012) also emphasizes the role of external actors in shaping the narrative and perception of Pashtun nationalism. The geopolitical interests of colonial and postcolonial powers, particularly during the Great Game between the British and Russian Empires, and later during the Cold War and the war on terrorism, have significantly influenced how Pashtun nationalism is understood and portrayed (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+For instance, during the Soviet invasion of Afghanistan in the 1980s, the United States and Pakistan supported various Mujahideen groups, many of whom were based in Pashtun areas. This external support for religiously motivated resistance against Soviet forces was often conflated with Pashtun nationalism, despite the ideological differences between Islamist groups and secular Pashtun nationalists. Similarly, the Taliban's rise in the 1990s was supported by Pakistan and other regional actors for strategic reasons, further complicating the narrative of Pashtun nationalism.
+
+These external influences have not only shaped the trajectory of Pashtun nationalism but have also contributed to its fragmentation and internal divisions. By supporting different factions and groups within the Pashtun community, external actors have often exacerbated internal rivalries and undermined efforts to build a unified nationalist movement.
+
+#### 8.6. Reassessing Pashtun Nationalism: A Complex Construct
+
+Saigol's analysis calls for a reassessment of the concept of Pashtun nationalism, recognizing it as a complex and multifaceted construct that cannot be easily defined or categorized. Rather than viewing it as a coherent political ideology, Pashtun nationalism should be understood as a dynamic and evolving identity shaped by historical narratives, cultural practices, internal divisions, and external influences. This perspective highlights the need for a more nuanced understanding of Pashtun nationalism, one that goes beyond simplistic binaries of secularism versus Islamism or nationalism versus tribalism (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+#### 8.7. Conclusion
+
+The debate over the existence and coherence of Pashtun nationalism, as explored by Saigol (2012), underscores the complexities and ambiguities inherent in the concept. By questioning whether Pashtun nationalism is a coherent reality or a mythical construct, Saigol challenges us to rethink the ways in which we understand and interpret nationalist movements in general. The tendency to equate Pashtun nationalism with Talibanization oversimplifies the diverse and often contradictory nature of Pashtun political identity, obscuring the rich tapestry of cultural, social, and political dynamics that shape the Pashtun community. Understanding Pashtun nationalism requires moving beyond these simplistic narratives to explore the deeper historical, cultural, and geopolitical forces at play (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】.
+
+### 9. Conclusion
+
+This survey has examined the complex and evolving nature of Pashtun nationalism, a socio-political phenomenon deeply rooted in historical contexts, cultural codes, and contemporary geopolitical conflicts. The intricate interplay of nationalism and religion continues to shape the socio-political landscape of Afghanistan and Pakistan, influencing not only the identity and unity of the Pashtun people but also broader regional dynamics and stability. Understanding these factors is crucial for comprehending the challenges and opportunities that Pashtun nationalism presents for South Asia.
+
+#### 9.1. Historical Contexts and Their Impact on Pashtun Nationalism
+
+The historical development of Pashtun nationalism has been shaped by several key events and processes, from the colonial era to the present day. During British colonial rule, the division of Pashtun lands by the Durand Line created lasting grievances that continue to influence Pashtun identity and nationalist sentiment (Raqib, 2009)【DOI: 10.1057/9780230101753_9】. The emergence of the Khudai Khidmatgar movement in the early 20th century as a nonviolent resistance against colonial oppression further illustrates the diversity of Pashtun political strategies, challenging stereotypes of Pashtuns as inherently violent and showcasing a commitment to Islamic principles of peace and justice (Bala, 2013)【DOI: 10.1111/PECH.12009】.
+
+The post-colonial period saw the rise of new forms of Pashtun nationalism, shaped by the geopolitical realities of the Cold War and the subsequent Soviet invasion of Afghanistan. During this time, the convergence of nationalist and religious sentiments became more pronounced, as the Afghan Jihad against the Soviets was framed both as a religious duty and a nationalist struggle for the Pashtun homeland (Khan, 2019)【DOI: 10.31703/gssr.2019(iv-iii).30】. These historical experiences have left an indelible mark on Pashtun nationalism, contributing to its evolution from a separatist agenda to a more complex and multifaceted identity politics.
+
+#### 9.2. Cultural Codes: Pashtunwali and National Identity
+
+Pashtunwali, the traditional code of conduct governing Pashtun society, remains a cornerstone of Pashtun nationalism. It provides a cultural and ethical framework that reinforces Pashtun identity and unity, transcending tribal and regional differences. The principles of Pashtunwali—such as hospitality, honor, and revenge—have historically served as a basis for both social cohesion and political mobilization. As Khan et al. (2019) argue, Pashtunwali has been instrumental in fostering a sense of oneness among Pashtuns, shifting the focus of their nationalism from advocating for a separate state to demanding rights and recognition within the framework of the Pakistani constitution (Khan, Faheem, & Gul, 2019)【DOI: 10.31703/gssr.2019(iv-i).35】.
+
+This cultural code has demonstrated remarkable adaptability in the face of changing political landscapes, allowing Pashtun nationalism to evolve in response to new challenges. The flexibility of Pashtunwali in incorporating elements of modern political ideologies, state structures, and legal systems reflects its enduring relevance and its role in shaping the political consciousness of Pashtun society.
+
+#### 9.3. Geopolitical Conflicts and the Transformation of Pashtun Nationalism
+
+Contemporary geopolitical conflicts have played a significant role in transforming Pashtun nationalism. The war on terrorism, the ongoing instability in Afghanistan, and the militarization of Pakistan's tribal areas have all impacted Pashtun nationalist movements. The rise of the Pashtun Tahafuz Movement (PTM) represents a new wave of peripheral nationalism that seeks to address grievances related to state repression, human rights violations, and socio-economic marginalization (Ahmed & Khan, 2020)【DOI: 10.1080/14631369.2020.1785840】.
+
+The PTM's emphasis on nonviolent resistance and human rights marks a departure from earlier forms of Pashtun nationalism, reflecting a shift from ethnic-based identity politics to a broader, rights-based approach. This transformation highlights the fluidity of Pashtun nationalism, which has adapted to changing circumstances and continues to evolve in response to both internal dynamics and external pressures.
+
+#### 9.4. The Intersection of Nationalism and Religion
+
+The intersection of nationalism and religion has been a defining feature of Pashtun political movements. While Pashtun nationalism has often been characterized by its secular and cultural dimensions, the influence of religion, particularly Islam, cannot be overlooked. The convergence of religious and nationalist sentiments has been evident in various historical and contemporary contexts, from the Afghan Jihad against the Soviets to the rise of the Taliban in the 1990s (Saikal, 2010)【DOI: 10.1080/13602001003650572】.
+
+However, the conflation of Pashtun nationalism with Talibanization is a simplistic and reductionist view that fails to capture the complexity of Pashtun identity politics. As Saigol (2012) argues, the notion of Pashtun nationalism is often more imagined than real, shaped by both internal dynamics and external perceptions (Saigol, 2012)【DOI: 10.1080/19472498.2012.664418】. The diversity of political strategies within Pashtun society, from nonviolent resistance to militant action, underscores the need for a more nuanced understanding of the relationship between nationalism and religion.
+
+#### 9.5. Implications for Regional Stability and Identity Politics
+
+The complex interplay of nationalism, religion, and cultural codes within Pashtun society has significant implications for regional stability and identity politics in South Asia. The ongoing conflict in Afghanistan, the volatile security situation in Pakistan's tribal areas, and the broader geopolitical rivalries involving regional and global powers all contribute to a highly dynamic and uncertain environment.
+
+Understanding the evolving nature of Pashtun nationalism is crucial for policymakers and scholars seeking to address the challenges of regional stability and conflict resolution. The diversity of political strategies and ideologies within Pashtun society, from secular nationalism to religious extremism, presents both opportunities and challenges for fostering peace and stability in the region. Engaging with the complexities of Pashtun identity politics and recognizing the diverse aspirations and grievances of the Pashtun people are essential steps towards achieving a more peaceful and inclusive future.
+
+#### 9.6. Conclusion: Towards a Nuanced Understanding of Pashtun Nationalism
+
+This survey underscores the importance of a nuanced and comprehensive understanding of Pashtun nationalism, which is shaped by a confluence of historical, cultural, and geopolitical factors. The dynamic and evolving nature of Pashtun nationalism reflects the broader complexities of identity politics in South Asia, where national, ethnic, and religious identities intersect and influence one another in diverse ways. Moving beyond simplistic narratives and engaging with the deeper historical and cultural contexts of Pashtun society is essential for advancing scholarship and informing policy in this critical region.
+
 
