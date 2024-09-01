@@ -661,4 +661,129 @@ This revised list eliminates all duplicates and presents the references in APA f
 6. Bertocci, P. J. (2006). A Sufi Movement in Bangladesh. [DOI link](https://doi.org/10.1177/006996670504000101).
 
 
+To write a detailed survey paper based on the provided summaries and findings from various studies on Pashtun nationalism and Afghan history, you can structure your analysis around several core themes that emerge from the literature. Below, I outline a draft for a survey paper, integrating the key points from each source with appropriate citations.
+
+---
+
+### Title: Historical and Contemporary Perspectives on Pashtun Nationalism and State Formation in Afghanistan
+
+#### Abstract
+This paper examines the intricate dynamics of Pashtun nationalism and its historical and contemporary manifestations, shedding light on its significant influence on the geopolitical landscape of Afghanistan and Pakistan. By tracing the evolution from the foundational myths surrounding the Abdālī Afghans to the modern socio-political movements such as the Pashtun Tahafuz Movement, this study highlights how historical narratives, cultural practices, and external interventions have shaped Pashtun identity and politics. The interplay between religion and nationalism, particularly influenced by external and internal pressures, reveals the complex relationship that has significantly impacted governance and regional stability. Additionally, the role of women within Pashtunwali provides insight into the gender dynamics at play, reflecting broader changes in societal norms due to conflicts and modern challenges. This survey not only provides a nuanced understanding of Pashtun nationalism but also suggests future research directions to further explore its impact on regional and international relations, highlighting the need for a deeper examination of digital media influences, international politics, and comparative studies with other nationalist movements. Through a comprehensive review of scholarly literature, this paper contextualizes Pashtun nationalism within broader historical and geopolitical frameworks, offering insights into its enduring legacies and evolving challenges.
+
+
+### 1. Introduction
+
+#### Context and Importance
+The geopolitical and historical landscapes of Afghanistan and Pakistan are deeply intertwined with the complex tapestry of Pashtun nationalism. As the largest ethnic group in Afghanistan and a significant minority in Pakistan, Pashtuns have historically been central to political and social dynamics in both countries. The significance of understanding Pashtun nationalism extends beyond mere academic inquiry; it is crucial for comprehending the broader regional politics that influence stability, peace, and development in Central Asia.
+
+Pashtun nationalism has not only shaped the internal dynamics of Afghanistan but has also had profound implications for its relationship with neighboring Pakistan. This nationalism is deeply rooted in the ethnic group's history, culture, and social structures, which have been influenced by centuries of migration, conflict, and interaction with external powers. The rise and fall of different political entities in the region, including the Durrani Empire founded by Ahmad Shah Abdālī, the British colonial influence during the Great Game, and the more recent U.S.-led intervention, have all shaped the contours of Pashtun nationalism [[1†source]].
+
+Understanding this nationalism is critical not only for historical accuracy but also for formulating policies that address the challenges of governance, insurgency, and transnational terrorism that frequently intersect with ethnic and nationalistic lines.
+
+#### Survey Scope
+This survey paper aims to dissect the multi-faceted phenomenon of Pashtun nationalism through a comprehensive review of scholarly literature, covering several pivotal themes:
+
+1. **Historical Origins of the Abdālī Afghans**: The paper will explore the early history of the Abdālī (later known as Durrani) Afghans who played a pivotal role in the formation of the Afghan state. This includes discussions on their ancestral links, which may connect them to the ancient Hephthalites, and their transformation under the leadership of Ahmad Shah Abdālī, who laid the foundation for modern Afghanistan. The role of historical narratives and mythologies in shaping the identity of the Abdālī Afghans and their influence on Pashtun nationalism will be particularly emphasized, drawing on the findings of Nejatie (2019) [[1†source]].
+
+2. **Role of Pashtunwali**: Pashtunwali, the traditional Pashtun code of honor, deeply influences Pashtun social structure and political organization. This survey will delve into how Pashtunwali has sustained Pashtun identity and nationalism, especially in the face of modern state-building challenges and during periods of conflict. The paper will examine the adaptations and evolutions of Pashtunwali in response to both internal changes and external pressures, as explored in studies like those by Kakar (2004), which investigates the role of women within this code [[2†source]].
+
+3. **Influence of External Forces on Pashtun Nationalism**: Pashtun nationalism has also been significantly shaped by external influences, including British colonial strategies, Pakistani state policies, and the geopolitics of the Cold War and its aftermath. This theme will explore how external interventions have exacerbated, manipulated, or sometimes supported Pashtun nationalism for various strategic ends. Key discussions will include the role of the Afghan Jihad, the influence of global jihadism, and the impact of international aid, drawing on analyses such as those by Khan (2019) and Akhlaq (2022) [[3†source], [4†source]].
+
+Through these themes, the survey will provide a nuanced understanding of Pashtun nationalism's origins, its socio-political roles, and its impacts on regional stability and international relations. The objective is to contextualize Pashtun nationalism within broader historical and contemporary geopolitical frameworks, offering insights into both its enduring legacies and its evolving challenges.
+
+#### Early History of Abdālī Afghans
+The Abdālī Afghans, later known as the Durrani, occupy a pivotal place in the history of Afghanistan, being closely linked to the rise of the Afghan Empire under Ahmad Shah Durrani in the mid-18th century. Sajjad Nejatie (2019) provides a comprehensive examination of the prehistory of the Abdālī Afghans, exploring their origins and their integration into the broader socio-political fabric of the region [[1†source]]. Nejatie’s research delves into the prevailing theories about the Abdālī’s connections to the Hephthalites—an ancient confederation known for their domination in the region during the first half of the first millennium CE—and a Sufi saint named Abū Aḥmad Abdāl.
+
+The significance of these connections lies in their impact on the formation of Abdālī identity, which combines elements of ancient tribal legacies with spiritual lineage, thus fostering a unique socio-political narrative that helped consolidate their power within the Afghan-Pashtun tribal system. This narrative not only facilitated their rise to prominence but also helped in the mobilization of tribal alliances that were crucial for the establishment of the Durrani Empire. Nejatie’s work highlights how these historical and mythical origins are instrumental in understanding the dynamics of leadership and loyalty in Pashtun tribal politics, which are deeply intertwined with both historical narratives and mystical affiliations [[1†source]].
+
+#### Modern State Formation
+The efforts of Afghan monarchs to consolidate power and their impact on the cultural and administrative landscape of Afghanistan are vividly detailed in the historical analysis by Feldman and Gregorian (1970). Their study focuses on the period marked by significant transitions, particularly under the rule of monarchs such as Abdur Rahman Khan, who is often credited with laying the groundwork for modern Afghanistan [[5†source]].
+
+Feldman and Gregorian explore how these monarchs undertook extensive efforts to build a centralized state, navigating the complex interplay of tribal loyalties, regional divisions, and emerging modern governance challenges. They emphasize the role of monarchial strategies in not only consolidating power but also in modernizing the state apparatus to enhance administrative efficiency and territorial control. This period saw a proliferation of reforms in various sectors including the military, education, and infrastructure, which were aimed at integrating a traditionally fragmented society under a cohesive national framework [[5†source]].
+
+These monarchs, particularly during the reign of Abdur Rahman Khan, employed a combination of diplomacy, strategic marriages, and military campaigns to suppress regional rebellions and to establish a strong centralized authority. The cultural shifts during this era, as discussed by Feldman and Gregorian, were significant as they marked a departure from purely tribal politics to a more structured statehood that sought to align traditional practices with the needs of a modern state. This transition was critical in shaping the political landscape of Afghanistan, setting the stage for future conflicts and negotiations between modernizing forces and traditional tribal structures [[5†source]].
+
+Through these detailed explorations, the survey aims to shed light on the foundational periods of Afghan history, tracing the evolution from tribal confederations under the Abdālī to a centralized Afghan state. These historical insights are essential for understanding the continuous influence of tribal dynamics in modern Afghan politics and the persistent challenges faced in state-building efforts.
+
+### 3. The Interplay of Nationalism and Religion
+
+#### Religious Influence and State Policy
+The relationship between nationalism and religion within Pashtun society has been complex and influential, significantly shaped by internal dynamics and external interventions, particularly from neighboring Pakistan. Studies such as those by Surat Khan (2019) and Sayed Hassan Akhlaq (2022) provide insights into how these factors have interacted to influence Pashtun nationalism over the years [[2†source], [6†source]].
+
+Khan’s (2019) analysis highlights how Pakistani state policies, especially during the Afghan Jihad against the Soviet invasion, utilized religious motivations to galvanize the Pashtun population against external threats. This policy not only deepened the religious identity among the Pashtuns but also aligned it with nationalistic fervor, thus creating a complex overlay of religious-nationalist sentiments that have persisted into contemporary conflicts. The support for the Mujahideen by the Pakistani government, driven by strategic depth policies, inadvertently strengthened a form of nationalism that was both religiously charged and deeply rooted in Pashtun cultural codes, impacting the social fabric of the region [[2†source]].
+
+Akhlaq (2022) further explores this interplay by discussing the long-term consequences of these policies on Pashtun nationalism. He suggests that the embedding of religious extremism within nationalist movements has not only altered the traditional secular bases of Pashtun nationalism but has also contributed to ongoing regional instability. This intertwining of religion with nationalistic aims has led to significant challenges in distinguishing between religious fervor and political autonomy, complicating peace and reconciliation efforts in the area [[6†source]].
+
+#### Historical and Religious Policies
+Ashraf Ghani's (1978) examination of the religious policies of Pashtun tribesmen during the state-building efforts in the late 19th century sheds light on an earlier period of nationalism development under different circumstances [[7†source]]. Ghani discusses how the establishment of the Afghan state under Abdur Rahman Khan involved the manipulation and utilization of religious policies not for the purpose of proselytization—given that the vast majority were already Muslims—but to consolidate political power and instill a centralized form of governance.
+
+Ghani points out that the religious policy under Rahman Khan was characterized by a strategic integration of Islamic principles with tribal customs, which were not traditionally aligned with the strict interpretations of Sharia law. This selective adaptation of Islamic laws was aimed to legitimize his rule and suppress dissent, effectively using religion as a tool to forge a nascent national identity that transcended individual tribal affiliations [[7†source]]. The outcome was a dual-edged sword; while it strengthened state control and expanded Rahman’s authority, it also laid the groundwork for future conflicts between traditional tribal practices and the centralized Islamic state framework.
+
+### Conclusion
+The interplay of nationalism and religion in Pashtun society, particularly as influenced by the policies of neighboring states and historical leaders, presents a multifaceted narrative of how religious identity and political nationalism can co-evolve, often with profound implications for state-building and social cohesion. This historical and contemporary analysis highlights the crucial role of religious policies and state strategies in shaping not only Pashtun nationalism but also the broader geopolitical stability of the region. As evidenced in the works of Khan, Akhlaq, and Ghani, understanding these dynamics is essential for addressing the ongoing challenges and opportunities within Pashtun regions today.
+
+### 4. Modern Manifestations of Pashtun Nationalism
+
+#### Pashtun Tahafuz Movement
+The Pashtun Tahafuz Movement (PTM) has emerged as a significant and contemporary expression of Pashtun nationalism, advocating for the rights and protections of Pashtuns in both Pakistan and Afghanistan. As discussed by Raja Qaiser Ahmed and R. Khan (2020), the PTM has arisen largely as a response to the prolonged violence and socio-political neglect that Pashtuns have endured due to regional conflicts, particularly the war on terror and the activities of militant groups in tribal areas [[8†source]].
+
+The PTM's rise reflects a shift in Pashtun nationalism from a historically fragmented tribal allegiance to a more consolidated civil rights movement. This shift is indicative of a broader transformation within Pashtun society, where traditional tribal and religious affiliations are being reinterpreted in the context of modern statehood and global human rights discourse. The movement leverages social media and peaceful protest as primary tools for activism, distinguishing itself from previous forms of nationalism that often relied on armed resistance or tribal warfare [[8†source]].
+
+This new form of nationalism is not only a reaction to the immediate grievances such as extrajudicial killings, enforced disappearances, and discrimination but also a broader demand for the reintegration of Pashtuns into the political mainstream of Pakistan, ensuring their rights and dignities are protected under the national constitution.
+
+#### Challenges of Pashtun Nationalism
+The complexities of Pashtun nationalism, particularly in relation to the phenomena of Talibanization and the enduring influence of tribal politics, have been detailed in studies by R. Saigol (2012) and S. Haroon (2019). These studies provide a nuanced view of how Pashtun nationalism interacts with and sometimes contradicts the narratives and practices of religious extremism propagated by movements like the Taliban [[9†source], [10†source]].
+
+Saigol (2012) explores the tendency among some scholars and policymakers to equate Pashtun nationalism with Talibanization, arguing that this oversimplification overlooks the diverse political and ideological expressions within Pashtun communities. Saigol posits that while certain segments of the Pashtun population may support the Taliban for various reasons, including geopolitical and economic motives, this does not imply a universal alignment of Pashtun nationalism with the Taliban’s objectives or methods [[9†source]].
+
+On the other hand, Haroon (2019) examines the interaction between Pashtun tribalism and religious ideologies, noting that the relationship is far more complex than commonly perceived. He argues that the portrayal of Pashtun society as uniformly tribal and religiously conservative fails to account for the dynamic changes and ideological diversity within the community, especially in the context of globalization and modern state politics [[10†source]]. Haroon's work highlights the multiple layers of identity and allegiance that define Pashtun nationalism, which can sometimes be in conflict with the radical agendas pursued by groups like the Taliban.
+
+### Conclusion
+The modern manifestations of Pashtun nationalism as represented by movements like the PTM and the academic discourses challenging the conflation of Pashtun identity with Talibanization illustrate the evolving nature of nationalist expressions among the Pashtuns. These developments signify a critical juncture in the history of Pashtun nationalism, reflecting broader socio-political changes and the impact of prolonged regional conflicts. Understanding these manifestations is crucial for developing informed and effective policies that address the complex realities of Pashtun communities today.
+
+#### 5. Gender and Legislative Authority within Pashtunwali
+
+#### Role of Women
+Pashtunwali, the traditional Pashtun code of honor and conduct, has been instrumental in defining the social and legal norms within Pashtun communities. However, the role of women within this framework has often been overlooked or minimized in broader discussions of Pashtun society. Palwasha L. Kakar's 2004 study provides a critical examination of how women navigate and influence these traditional structures, particularly in the context of legislative authority [[11†source]].
+
+Kakar explores the "ideal" Pashtunwali as envisioned by both Pashtun men and women, acknowledging that while the code is predominantly interpreted and enforced by men, women also play a significant, albeit often indirect, role in its perpetuation and evolution. Her analysis highlights how conflict, war, and displacement have not only disrupted traditional practices but also opened spaces for women to renegotiate their roles and authority within the tribal framework [[11†source]].
+
+The impact of external pressures such as displacement due to conflict has led to significant alterations in how Pashtunwali is practiced and perceived. Women, often left to manage households in the absence of men who are either at war or have migrated for work, have found themselves in positions where they must take on roles traditionally reserved for men. This shift has gradually led to a reevaluation of women's capabilities and their potential contributions to legislative processes within Pashtun society.
+
+Kakar's study also addresses the layers of legislative authority that women can exercise under Pashtunwali. This authority is not typically formal or overt but operates within gender-segregated networks and occasionally crosses these boundaries to influence broader community decisions. Women's participation in jirgas (tribal councils), although not widespread, serves as a testament to the evolving dynamics of gender roles within Pashtun communities. This participation, although still contested and heavily restricted, marks a critical step toward more inclusive governance practices that recognize women's voices as integral to societal leadership and decision-making [[11†source]].
+
+### Conclusion
+The exploration of women's roles within the Pashtunwali system reveals a complex interplay between tradition and change, where gender norms are both challenged and reinforced by the realities of modern conflict and displacement. Kakar's insights into the nuanced ways in which Pashtun women negotiate their positions within these traditional structures provide a vital perspective on the adaptive nature of cultural codes in response to socio-political upheavals. Understanding these dynamics is crucial for any comprehensive analysis of Pashtun society, especially in discussions aimed at fostering greater gender equity and inclusion in tribal and national legislative processes.
+
+### 6. Conclusion
+
+#### Summary of Key Findings
+The exploration of Pashtun nationalism through various scholarly works reveals a multifaceted phenomenon shaped by historical, cultural, and political influences. Key findings from the literature underscore the complexity and diversity of Pashtun nationalism, highlighting its evolution from the tribal and dynastic origins of the Abdālī Afghans to the contemporary manifestations in movements like the Pashtun Tahafuz Movement (PTM).
+
+1. **Historical Roots and Evolution**: Studies such as those by Nejatie (2019) provide an in-depth look at the historical narratives surrounding the Abdālī Afghans, illustrating how ancient tribal affiliations and mystical traditions have played a pivotal role in shaping Pashtun identity and leadership dynamics [[1†source]]. The consolidation of power under figures like Ahmad Shah Durrani marked the early state-building efforts that fused Pashtun tribal norms with the emerging demands of a centralized state, as detailed by Feldman and Gregorian (1970) [[5†source]].
+
+2. **Religious and Nationalist Interplay**: The interplay between nationalism and religion has significantly influenced Pashtun society, particularly in response to external pressures such as Pakistani state policies and the Afghan Jihad. Authors like Khan (2019) and Akhlaq (2022) discuss how these elements have been leveraged to galvanize nationalist sentiments that are both protective and assertive of Pashtun identity in the face of geopolitical challenges [[2†source], [6†source]].
+
+3. **Modern Nationalism and Civil Rights Movements**: The rise of the PTM signals a new phase of Pashtun nationalism, characterized by a shift towards civil rights advocacy and the use of modern communication tools to address grievances. This movement reflects a broader transformation within Pashtun society towards advocating for rights and recognition within national and international frameworks, as analyzed by Ahmed and Khan (2020) [[8†source]].
+
+4. **Gender Dynamics within Pashtunwali**: The role of women within Pashtunwali, as explored by Kakar (2004), highlights the evolving nature of gender roles within traditional codes. Conflicts and social changes have prompted a reassessment of women's roles, suggesting a slow but notable shift towards greater gender inclusivity in legislative processes within Pashtun society [[11†source]].
+
+#### Implications for Future Research
+The findings from this survey suggest several areas for future research that could further elucidate the complexities of Pashtun nationalism and its socio-political implications:
+
+1. **Impact of Globalization and Digital Media**: Future studies could explore how globalization and digital media are influencing Pashtun nationalism. The role of social media in movements like the PTM offers a rich area for investigation, particularly in how these platforms are used to negotiate identity and mobilize support across transnational Pashtun communities.
+
+2. **Intersection of Nationalism and International Relations**: Further research could examine the impact of contemporary political changes in Afghanistan and Pakistan on Pashtun nationalism. This includes the role of international actors and neighboring states in shaping the political landscape that affects Pashtun areas.
+
+3. **Longitudinal Studies on Gender Roles**: There is a need for longitudinal studies that track changes in gender roles within Pashtun society, especially in the context of ongoing conflicts and socio-economic changes. Understanding how these roles evolve can provide deeper insights into the internal dynamics of Pashtunwali and its adaptation to modern pressures.
+
+4. **Comparative Studies with Other Nationalist Movements**: Comparing Pashtun nationalism with other regional and global nationalist movements could provide additional insights into the unique and common elements that drive ethnic and nationalist sentiments in different socio-political contexts.
+
+These areas of future research not only promise to deepen our understanding of Pashtun nationalism but also contribute to broader discussions on ethnicity, nationalism, and state dynamics in multi-ethnic states.
+#### References
+- Compile a list of all the sources cited, ensuring each is referenced properly according to academic standards.
+
+
+
+
 
