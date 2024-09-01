@@ -784,6 +784,161 @@ These areas of future research not only promise to deepen our understanding of P
 - Compile a list of all the sources cited, ensuring each is referenced properly according to academic standards.
 
 
+## The emergence of Modren Pashtun Nationalism in 20th century: The Khudai Khidmatgar Movement 
+
+### Introduction
+- Brief introduction to the importance of studying the Khudai Khidmatgar movement.
+- Mention how it was rooted in nonviolent resistance and inspired by Gandhian principles.
+
+### Historical Context and Emergence
+- Discuss the historical background of the Khudai Khidmatgar movement, highlighting its inception and core principles (Bala, 2013; Banerjee, 2000).
+- Detail Abdul Ghaffar Khan’s leadership and how the movement mobilized Pashtun polity through non-violence and Islamic legitimacy (Rowell, 2009).
+
+### Ideological Underpinnings
+- Explore the movement’s connection to Islamic principles and Gandhian nonviolence, stressing how it converted the traditionally martial Pashtun society towards nonviolent action (Banerjee, 2000).
+- Discuss the dual influence of religion and regional nationalism on the movement’s philosophy and strategies (Khan et al., 2019).
+
+### Political Impact
+- Analyze the movement's political implications, particularly its role in the broader Indian independence struggle and its impact on Pashtun nationalist sentiments (Gilmartin and Jansson, 1983; Nichols, 1999).
+- Examine the tensions between Pashtun nationalism and the Pakistani state, as well as the movement's influence on subsequent nationalist movements in the region (Jansson, 1991; Ahmed and Khan, 2020).
+
+### Legacy and Continuing Influence
+- Discuss the long-term legacy of the Khudai Khidmatgar movement in the context of modern Pashtun nationalism and its relevance to contemporary socio-political movements like the Pashtun Tahafuz Movement (Ahmed and Khan, 2020).
+- Examine how historical narratives of the movement have influenced contemporary political and social movements among Pashtuns (Titus and Swidler, 2000).
+
+### Conclusion
+- Summarize the significant contributions of the Khudai Khidmatgar movement to the Pashtun nationalist movement and the broader field of nonviolent resistance.
+- Reflect on the continuing relevance of the movement's principles in the contemporary political landscape of the region.
+
+### References
+- Cite all the sources as per the academic standards, providing DOI links where available for readers to access full articles directly.
+
+By organizing your survey paper along these lines, you effectively capture the multifaceted impact of the Khudai Khidmatgar movement, utilizing the wealth of academic resources identified in your dataset. This approach not only ensures a thorough exploration of the topic but also situates the movement within the broader scholarly discourse on nationalism and nonviolent resistance.
+
+
+### Introduction
+
+The study of the Khudai Khidmatgar movement is crucial for understanding the complexities of nonviolent resistance within the context of South Asian political and social dynamics. The movement, which emerged in the early 20th century, represents a significant chapter in the history of the Indian subcontinent's struggle against colonial rule. Led by Abdul Ghaffar Khan, a close ally of Mahatma Gandhi, the Khudai Khidmatgar (which translates to 'Servants of God') was distinctive for its commitment to nonviolent protest and its deep roots in the cultural and religious ethos of the Pashtun community (Banerjee, 2000).
+
+This movement is particularly notable for its synthesis of Islamic principles with the strategies of nonviolent civil disobedience pioneered by Gandhi. Abdul Ghaffar Khan believed that the teachings of Islam aligned closely with the principles of nonviolence, and he leveraged this interpretation to mobilize the predominantly Muslim Pashtuns against British colonial rule (Rowell, 2009). The movement's foundation on nonviolent resistance was not only a strategic choice but also a profound ideological commitment, which was inspired by Gandhi’s success in promoting nonviolence among diverse Indian communities. This approach was revolutionary, especially in a region where martial prowess was traditionally celebrated and formed a core component of Pashtun identity.
+
+The relevance of studying the Khudai Khidmatgar movement extends beyond historical interest; it offers insights into how nonviolent principles can be integrated into diverse cultural and religious frameworks. The movement challenged and redefined the norms of Pashtun society, which had been characterized by a strong warrior tradition. By advocating for nonviolence, Abdul Ghaffar Khan and his followers not only provided a new model of resistance but also demonstrated the potential for profound social transformation within a highly traditional society (Banerjee, 2000).
+
+Moreover, the Khudai Khidmatgar movement's commitment to nonviolence under challenging circumstances and in a highly volatile geopolitical area offers valuable lessons for contemporary movements worldwide. It stands as a testament to the power of nonviolent resistance, even in contexts where such an approach seems counterintuitive. Thus, studying this movement not only enriches our understanding of South Asian history but also contributes to the global discourse on peace, resistance, and social change.
+
+In summary, the Khudai Khidmatgar movement is not only a critical historical case of the interplay between nationalism, religion, and nonviolent resistance but also a resonant example for current and future generations seeking peaceful methods to achieve social and political objectives. The movement’s foundation in Gandhian principles, while uniquely adapted to the Islamic and Pashtun context, offers a compelling narrative of how universal ideas of nonviolence can be localized to fit different cultural and political landscapes (Rowell, 2009; Banerjee, 2000). This makes the study of the Khudai Khidmatgar movement both relevant and necessary for scholars, policymakers, and activists alike.
+
+### Historical Context and Emergence
+
+#### Historical Background
+
+The Khudai Khidmatgar movement, founded by Abdul Ghaffar Khan in the 1920s in the North West Frontier Province (now Khyber Pakhtunkhwa, Pakistan), arose during a period marked by intense political agitation against British colonial rule. This movement was a direct response to the oppressive policies imposed by the British and aimed at mobilizing the Pashtun community towards a nonviolent struggle for independence. The movement, initially started as a social reform group, rapidly transformed into a political entity advocating for the rights and self-determination of the Pashtuns under the banner of nonviolent resistance (Bala, 2013).
+
+The core principles of the Khudai Khidmatgar were deeply influenced by Gandhian ideals of Satyagraha (nonviolent resistance), which Abdul Ghaffar Khan encountered during his extensive interactions with Mahatma Gandhi. Khan adapted these principles to the Pashtun context, emphasizing the compatibility of nonviolence with Islamic teachings, thus crafting a movement that was both revolutionary and deeply rooted in the local religious and cultural milieu. This synthesis of nonviolent resistance with Islamic legitimacy was crucial, as it provided a culturally resonant strategy for mobilization and resistance against colonial rule (Banerjee, 2000).
+
+#### Abdul Ghaffar Khan’s Leadership
+
+Abdul Ghaffar Khan, often revered as ‘Frontier Gandhi’, was instrumental in shaping the movement’s direction and strategy. His charismatic leadership and firm commitment to nonviolence were central to the movement's identity and appeal. Khan’s approach was groundbreaking in that he successfully mobilized the traditionally martial Pashtun tribes towards peaceful protests, which was a stark departure from their historical reliance on armed struggle. He established a rigorous code of conduct for the Khudai Khidmatgars, who were required to take oaths to serve humanity and abstain from violence, thus reinforcing the movement's commitment to peace and ethical conduct (Rowell, 2009).
+
+Khan's leadership was not just strategic but also visionary. He envisioned a society where justice and equality prevailed, transcending tribal and sectarian lines. This vision was embedded in the daily practices and educational programs of the Khudai Khidmatgar, which sought not only to resist colonial oppression but also to uplift and educate the Pashtun populace. Under his guidance, the movement set up schools, advocated for women's rights, and promoted a new social ethic among the Pashtuns, centered on nonviolence and civic responsibility (Rowell, 2009).
+
+#### Mobilization of Pashtun Polity
+
+The mobilization strategy of the Khudai Khidmatgar was multifaceted, involving grassroots organizing, community engagement, and the establishment of a parallel structure to British colonial administration. The movement's use of Jirgas (traditional Pashtun assemblies) and its emphasis on Islamic principles helped in legitimizing its activities and appeals among the conservative Pashtun tribes, who might otherwise have been skeptical of radical political changes. By framing the struggle for independence within the familiar context of Islamic teachings and Pashtun social structures, Khan was able to mobilize a significant portion of the Pashtun polity towards nonviolent activism (Bala, 2013).
+
+Moreover, the movement’s emphasis on nonviolence was critical during a time when the subcontinent was fraught with communal and sectarian violence. By steadfastly adhering to nonviolent methods, the Khudai Khidmatgar not only set itself apart from other contemporary movements but also demonstrated the effectiveness and moral high ground of peaceful resistance. This stance was particularly significant in maintaining a focus on the broader goal of independence while avoiding the communal tensions that were escalating in other parts of India (Banerjee, 2000).
+
+In conclusion, the historical emergence of the Khudai Khidmatgar movement under Abdul Ghaffar Khan’s leadership is a profound example of how deeply held cultural and religious values can be harmonized with radical political objectives. The movement's integration of nonviolence, Islamic legitimacy, and Pashtun traditions created a powerful and enduring legacy in the struggle against colonial oppression and in the broader discourse on nonviolent resistance.
+
+
+
+### Ideological Underpinnings
+
+#### Connection to Islamic Principles and Gandhian Nonviolence
+
+The Khudai Khidmatgar movement represents a unique synthesis of Islamic teachings and Gandhian nonviolence, which served as a powerful ideological foundation for mobilizing the Pashtun society towards peaceful resistance. Abdul Ghaffar Khan, the leader of the movement, believed that the principles of Islam inherently supported nonviolence and peace. He often quoted the Quran and Hadiths to emphasize that Islam advocates for peace, mercy, and compassion towards all beings. This reinterpretation of Islamic texts was instrumental in gaining the support of the deeply religious Pashtun communities, who respected religious scholarship and were more likely to engage in a movement that aligned with their faith (Banerjee, 2000).
+
+Simultaneously, the movement drew heavily from Gandhian principles of Satyagraha (truth-force) and Ahimsa (non-harm). Ghaffar Khan had closely collaborated with Mahatma Gandhi and was deeply influenced by his methods of civil disobedience. By integrating these principles with Islamic tenets, Ghaffar Khan provided a culturally contextualized version of nonviolence that was not seen as foreign or imposed but as an extension of the community's own religious beliefs. This approach not only legitimized the movement but also transformed the traditionally martial Pashtun society, which had a storied history of warrior culture, towards embracing nonviolent action as a viable and honorable strategy in political resistance (Banerjee, 2000).
+
+#### Dual Influence of Religion and Regional Nationalism
+
+The ideological framework of the Khudai Khidmatgar was also deeply influenced by the dual forces of religion and regional nationalism. While Islam provided the ethical and moral foundation for the movement, the concept of Pashtun nationalism fueled its political aspirations and objectives. This nationalism was not merely based on ethnic identity but was also a response to the specific socio-political conditions in the North West Frontier Province under British colonial rule. The Pashtuns' desire for self-determination was intertwined with their religious identity, which was seen as under threat by foreign domination and cultural imposition (Khan et al., 2019).
+
+Ghaffar Khan and his movement capitalized on this sentiment by advocating for a Pashtun state where Islamic principles and Pashtun cultural values would govern society. This vision of a harmonious blend of religious adherence and regional autonomy resonated deeply with the Pashtuns, who felt a strong sense of alienation and marginalization under British rule. The Khudai Khidmatgar thus not only fought against colonial oppression but also for the preservation and promotion of Pashtun cultural and religious identity within the broader framework of Indian nationalism (Khan et al., 2019).
+
+The movement's ability to navigate these dual influences effectively enabled it to maintain a strong base of support among the Pashtuns. By framing their struggle in both religious and nationalistic terms, the Khudai Khidmatgar aligned its goals with the prevailing sentiments and priorities of the Pashtun people. This strategic alignment was crucial in mobilizing a large segment of the Pashtun population, who saw the movement's goals as reflective of their own aspirations for religious freedom and political self-rule (Khan et al., 2019).
+
+In conclusion, the ideological underpinnings of the Khudai Khidmatgar movement are a testament to the complex interplay of religion and nationalism within the context of nonviolent resistance. By adeptly blending Islamic principles with Gandhian nonviolence and Pashtun nationalism, the movement not only transformed a warrior society but also left a lasting legacy on the regional and national movements that followed. This ideological sophistication highlights the movement's historical significance and its enduring relevance in studies of political and social mobilization.
+
+### Political Impact
+
+#### Role in the Indian Independence Struggle
+
+The Khudai Khidmatgar movement, under the leadership of Abdul Ghaffar Khan, played a significant and influential role in the broader Indian independence struggle. The movement's commitment to nonviolence and its mass mobilization of the Pashtun population in the North West Frontier Province (NWFP) were crucial in challenging British colonial authority in a strategically important region. Ghaffar Khan's alliance with Mahatma Gandhi and the Indian National Congress further integrated the Pashtun resistance into the national framework of the independence movement, enabling a cross-cultural alliance that bolstered the national struggle against British rule (Gilmartin and Jansson, 1983).
+
+The movement not only participated in national campaigns like the Civil Disobedience Movement but also localized these efforts within the Pashtun areas, adapting them to local cultural and social contexts. This integration of local movements into the national struggle was pivotal in creating a unified front against colonialism across diverse ethnic and cultural lines, which was essential for the success of the broader independence movement (Nichols, 1999).
+
+#### Impact on Pashtun Nationalist Sentiments
+
+The Khudai Khidmatgar movement significantly shaped Pashtun nationalist sentiments by promoting a distinct identity that was both part of the Indian nationalist framework and uniquely Pashtun. The movement fostered a sense of Pashtun nationalism that was tied to broader anti-colonial goals, yet it also emphasized unique cultural and political aspirations of the Pashtuns. This dual identity played a significant role in the post-independence period, as Pashtun nationalism continued to influence political dynamics in the region (Gilmartin and Jansson, 1983).
+
+The articulation of a Pashtun identity that was distinct yet aligned with the Indian freedom struggle helped in nurturing a political consciousness that transcended mere anti-colonial sentiment and sought greater autonomy and recognition within the emerging nation-states of India and Pakistan. The legacy of the Khudai Khidmatgar movement in fostering this nationalist sentiment has had lasting implications for the political landscape in both countries, particularly in regions inhabited by Pashtuns (Nichols, 1999).
+
+#### Tensions with the Pakistani State
+
+Following the partition of India in 1947, the political landscape dramatically shifted for the Pashtuns. The Khudai Khidmatgar, which had opposed the creation of Pakistan, found itself in a complex relationship with the new Pakistani state. The movement's strong advocacy for Pashtun nationalism often clashed with the centralizing tendencies of the Pakistani government, which viewed regional nationalisms as a threat to national unity. These tensions manifested in various political and social conflicts, highlighting the challenges faced by regional movements in adapting to the new political realities of post-colonial South Asia (Jansson, 1991).
+
+The suppression of Pashtun nationalist expressions by the Pakistani state further complicated the political impact of the Khudai Khidmatgar legacy. However, it also underscored the deep-rooted resilience and continuity of Pashtun nationalist aspirations, which have periodically resurfaced in various forms and movements throughout Pakistan's history (Ahmed and Khan, 2020).
+
+#### Influence on Subsequent Nationalist Movements
+
+The ideological and organizational foundations laid by the Khudai Khidmatgar have influenced subsequent nationalist movements in the region, particularly those advocating for greater rights and recognition for Pashtuns within Pakistan. Movements like the Pashtun Tahafuz Movement (PTM) in contemporary Pakistan draw direct inspiration from the nonviolent resistance philosophy of the Khudai Khidmatgar. These movements continue to advocate for civil rights, social justice, and political autonomy, reflecting the enduring legacy of Ghaffar Khan's vision and the movement's foundational principles (Ahmed and Khan, 2020).
+
+In conclusion, the political impact of the Khudai Khidmatgar movement is profound and multifaceted, spanning across decades and influencing a wide range of political dynamics and nationalist sentiments in South Asia. Its role in the Indian independence struggle, its shaping of Pashtun nationalist sentiments, and its complex interactions with the Pakistani state illustrate the enduring influence and significance of this movement in the region's political history.
+
+### Legacy and Continuing Influence
+
+#### Long-term Legacy in Modern Pashtun Nationalism
+
+The Khudai Khidmatgar movement, under the stewardship of Abdul Ghaffar Khan, has left a profound and enduring legacy within the sphere of Pashtun nationalism. Its integration of nonviolent resistance with Islamic principles and Pashtun cultural values has significantly shaped the political ethos of the Pashtun regions across the Afghanistan-Pakistan border. This legacy is particularly evident in the ongoing pursuit of Pashtun rights and autonomy within the geopolitical landscape of contemporary Pakistan, where Pashtun nationalism continues to be a vital force in both local and national politics.
+
+One of the most tangible manifestations of this legacy is the Pashtun Tahafuz Movement (PTM), which has emerged as a significant socio-political movement advocating for the rights and protections of Pashtuns in Pakistan. The PTM, much like the Khudai Khidmatgar, combines a strong emphasis on nonviolent protest with a call for justice and accountability, particularly in response to state violence and discrimination. The ethos and tactics of the PTM echo the Khudai Khidmatgar's approach, highlighting the continued relevance of Ghaffar Khan's principles in addressing contemporary issues facing Pashtuns (Ahmed and Khan, 2020).
+
+#### Influence on Contemporary Political and Social Movements
+
+The historical narratives of the Khudai Khidmatgar movement have played a significant role in shaping contemporary political and social movements among Pashtuns. These narratives, which portray the movement as a symbol of Pashtun unity, resistance, and ethical governance, continue to inspire new generations of activists and leaders within the Pashtun community. The story of the Khudai Khidmatgar is often invoked in contemporary political discourse as a reminder of the power of nonviolent resistance and the importance of aligning political action with ethical and religious principles (Titus and Swidler, 2000).
+
+This historical memory has helped to foster a sense of collective identity and purpose among Pashtuns, particularly in the context of their complex relationship with the Pakistani state and the ongoing conflict in Afghanistan. The legacy of the Khudai Khidmatgar thus serves as both a foundation and a touchstone for contemporary movements, providing a framework for understanding and addressing the challenges faced by the Pashtun community today.
+
+Moreover, the principles and strategies of the Khudai Khidmatgar have been adapted to modern contexts, where issues such as human rights, political representation, and cultural preservation are at the forefront of the Pashtun political agenda. These adaptations are evident in the way modern movements articulate their demands and organize their activities, reflecting the deep-rooted influence of the Khudai Khidmatgar's approach to political engagement (Ahmed and Khan, 2020).
+
+#### Educational and Cultural Impact
+
+Beyond its political implications, the legacy of the Khudai Khidmatgar movement extends into the realms of education and culture. The movement's emphasis on literacy and education as tools for empowerment has inspired ongoing educational initiatives among Pashtuns. Additionally, the movement’s investment in cultural preservation and promotion has encouraged contemporary efforts to document and celebrate Pashtun history and traditions, reinforcing a sense of pride and identity within the community.
+
+### Conclusion
+
+In conclusion, the legacy of the Khudai Khidmatgar movement is a pervasive and dynamic force in the fabric of Pashtun society. Its historical and ongoing influence on political and social movements demonstrates the enduring power of its foundational principles. As contemporary movements like the PTM continue to draw on the legacy of the Khudai Khidmatgar, it is clear that the movement’s ethos of nonviolent resistance, combined with its deep cultural and religious resonances, remains a potent and relevant force in shaping the trajectory of Pashtun nationalism and advocacy.
+
+### Conclusion
+
+#### Significant Contributions to Pashtun Nationalism and Nonviolent Resistance
+
+The Khudai Khidmatgar movement, under the inspiring leadership of Abdul Ghaffar Khan, stands as a monumental example of how deeply ingrained cultural and religious values can be harnessed to fuel a powerful nonviolent resistance movement. Its contributions to Pashtun nationalism are profound, as it not only mobilized the Pashtun population against British colonial rule but also galvanized a broader recognition of Pashtun identity, unity, and political aspirations. This movement effectively intertwined Pashtun cultural pride with the mechanics of national and anti-colonial struggle, setting a precedent for future nationalist movements within the region.
+
+In the broader field of nonviolent resistance, the Khudai Khidmatgar movement's adherence to and promotion of nonviolence—rooted in both Islamic principles and Gandhian philosophy—offered a unique model that demonstrated the effectiveness of peaceful methods in achieving political and social objectives. The movement's commitment to nonviolence was particularly significant in a region characterized by tribal conflicts and colonial oppressions, proving that nonviolent strategies could transcend cultural and historical norms of violence (Banerjee, 2000).
+
+#### Continuing Relevance in the Contemporary Political Landscape
+
+The principles espoused by the Khudai Khidmatgar movement continue to resonate within the contemporary political landscape of the region, especially amid ongoing challenges faced by the Pashtun communities in Pakistan and Afghanistan. Modern movements such as the Pashtun Tahafuz Movement (PTM) draw direct inspiration from the Khudai Khidmatgar, adopting similar strategies of peaceful protest to advocate for civil rights, social justice, and accountability from governmental authorities (Ahmed and Khan, 2020). This demonstrates the enduring relevance of the movement's foundational principles as tools for contemporary political activism and social reform.
+
+Moreover, the historical narrative of the Khudai Khidmatgar movement serves as a beacon for broader regional efforts towards peace and reconciliation in South Asia, a region often plagued by political instability and conflict. The legacy of nonviolence left by the Khudai Khidmatgar provides valuable lessons in how deeply divided societies can pursue peace through inclusive and principled leadership.
+
+The ethos of the Khudai Khidmatgar, emphasizing ethical conduct, community service, and nonviolent resistance, remains a potent force in shaping discussions around national identity, regional autonomy, and political participation. As new generations of activists and leaders emerge within the Pashtun communities, the principles of the Khudai Khidmatgar offer guiding lights for navigating the complexities of modern political realities while staying true to the values of peace and justice.
+
+### Summary
+
+In summary, the Khudai Khidmatgar movement not only played a pivotal role in the historical context of the Pashtun nationalist movement but also left an indelible mark on the philosophy and practice of nonviolent resistance worldwide. Its integration of cultural identity with political activism continues to inspire and inform current and future generations, underscoring the timeless relevance of its principles in advocating for peace and justice in complex socio-political landscapes.
 
 
 
